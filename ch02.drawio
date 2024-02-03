@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T15:54:40.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="iMKu2oi93NoSGRhXlbit" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-03T16:01:04.721Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="inXmxJx_Rby_hyWdJ99L" version="22.1.18" type="github" pages="3">
   <diagram name="2.1" id="XGXpIatfN00QPviRksGG">
     <mxGraphModel dx="902" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -282,6 +282,83 @@
         </mxCell>
         <mxCell id="WR0Sb3bC8q0fI2GhGTek-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.434;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="WR0Sb3bC8q0fI2GhGTek-2" target="WR0Sb3bC8q0fI2GhGTek-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="x6Vkm65YMqSFhvUeyjuu" name="2.3">
+    <mxGraphModel dx="1353" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yj-MhH7J7-cphWPsKEp9-2" target="yj-MhH7J7-cphWPsKEp9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-2" value="/products?category=&#39; OR 1=1--" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;spacing=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250" y="800" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yj-MhH7J7-cphWPsKEp9-4" target="yj-MhH7J7-cphWPsKEp9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-4" value="API server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yj-MhH7J7-cphWPsKEp9-6" target="yj-MhH7J7-cphWPsKEp9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="130" y="790" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="740" y="780" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/KDE_Crystal_Diamond_2.5_Classical_Mod/22x22/apps/clanbomber.png" vertex="1" parent="1">
+          <mxGeometry x="670" y="809" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yj-MhH7J7-cphWPsKEp9-8" target="yj-MhH7J7-cphWPsKEp9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-10" value="&lt;div&gt;session.execute(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; text(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; f&quot;select * from product where f&lt;span style=&quot;background-color: initial;&quot;&gt;ormat like &#39;%{format}%&#39;;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; )&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; )&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=10;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="904.5" width="365" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.434;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="yj-MhH7J7-cphWPsKEp9-4" target="yj-MhH7J7-cphWPsKEp9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="540" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-13" value="1. What are we working on?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-14" value="The ability to retrieve a list&amp;nbsp; of products from the API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="540" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-16" value="2. What can go wrong?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-17" value="SQL injection through the category parameter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="373" width="540" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-19" value="3. What are going to do about it?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="373" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-20" value="1. Constrain user input on the query parameter&lt;br&gt;2. Parametrize database queries" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="373" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="540" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-22" value="3. Did we do a good enough job?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yj-MhH7J7-cphWPsKEp9-23" value="Yes, the SQL injection attack won&#39;t work anymore on this parameter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
