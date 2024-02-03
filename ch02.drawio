@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T23:28:18.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="IqDTetBnx_hYCwAXHRwE" version="22.1.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-03T23:37:38.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Y7Pwd_pyyePA_hCZCqJH" version="22.1.18" type="github" pages="5">
   <diagram name="2.1" id="XGXpIatfN00QPviRksGG">
     <mxGraphModel dx="902" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -480,7 +480,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Vz4S5PgvKJRGn5p_7Mml-1" value="API server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vz4S5PgvKJRGn5p_7Mml-2" value="Auth server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
@@ -492,7 +492,11 @@
           <mxGeometry x="60" y="200" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vz4S5PgvKJRGn5p_7Mml-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vz4S5PgvKJRGn5p_7Mml-5" target="Vz4S5PgvKJRGn5p_7Mml-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TpUk6zxwc8QiFuHMYd4g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vz4S5PgvKJRGn5p_7Mml-5" target="Vz4S5PgvKJRGn5p_7Mml-10">
           <mxGeometry relative="1" as="geometry">
@@ -501,8 +505,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TpUk6zxwc8QiFuHMYd4g-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vz4S5PgvKJRGn5p_7Mml-5" target="TpUk6zxwc8QiFuHMYd4g-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Vz4S5PgvKJRGn5p_7Mml-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
-          <mxGeometry x="60" y="340" width="40" height="40" as="geometry" />
+          <mxGeometry x="60" y="433" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vz4S5PgvKJRGn5p_7Mml-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vz4S5PgvKJRGn5p_7Mml-6" target="Vz4S5PgvKJRGn5p_7Mml-1">
           <mxGeometry relative="1" as="geometry" />
@@ -521,6 +532,25 @@
         </mxCell>
         <mxCell id="TpUk6zxwc8QiFuHMYd4g-4" value="POST /login&lt;br&gt;&lt;br&gt;{&lt;br&gt;&amp;nbsp; &quot;email&quot;: &quot;sarah@example.com&quot;,&lt;br&gt;&amp;nbsp; &quot;password&quot;: &quot;&#39; OR 1=1;--&quot;&lt;br&gt;}" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="130" y="158.75" width="200" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TpUk6zxwc8QiFuHMYd4g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TpUk6zxwc8QiFuHMYd4g-7" target="Vz4S5PgvKJRGn5p_7Mml-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TpUk6zxwc8QiFuHMYd4g-7" value="GET /customers&lt;br&gt;Authorization: Bearer&amp;nbsp;eyJhbG..." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TpUk6zxwc8QiFuHMYd4g-10" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;sub&quot;: &quot;1234567890&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;name&quot;: &quot;John Doe&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;iat&quot;: 1770161649,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;permissions&quot;: [&quot;admin&quot;]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="515" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TpUk6zxwc8QiFuHMYd4g-11" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;alg&quot;: &quot;HS256&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;typ&quot;: &quot;JWT&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="445" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TpUk6zxwc8QiFuHMYd4g-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TpUk6zxwc8QiFuHMYd4g-7" target="TpUk6zxwc8QiFuHMYd4g-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="576" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
