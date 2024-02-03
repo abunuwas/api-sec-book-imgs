@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T15:19:34.356Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="X-LbbIK0VetequldRF9L" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T15:24:01.281Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="PprhwLux4Ce6v5m8xdnG" version="22.1.18" type="github">
   <diagram name="Page-1" id="XGXpIatfN00QPviRksGG">
     <mxGraphModel dx="902" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,6 +161,21 @@
             <mxPoint x="385" y="207.17" as="sourcePoint" />
             <mxPoint x="415" y="207.17" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6HwyyKca93xHwDa4s0Am-52" value="Risk analysis: prioritize vulnerabilities" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="195" y="710" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6HwyyKca93xHwDa4s0Am-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/list-checks-thin-128.png" vertex="1" parent="1">
+          <mxGeometry x="370" y="710" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="6HwyyKca93xHwDa4s0Am-54" value="Incident detection: detect suspicious user behavior and security incidents" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="485.5" y="700" width="197" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6HwyyKca93xHwDa4s0Am-55" value="Incident response plan: know what to do when an incident happens" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="485.5" y="800" width="164.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6HwyyKca93xHwDa4s0Am-56" value="Training: raise awareness about API security" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="840" width="164.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
