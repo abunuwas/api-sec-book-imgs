@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T00:46:24.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="swd4jfrli5M152A6r4_n" version="22.1.18" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-04T00:46:38.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="f4HGHzHcA8HKOq7sJC_K" version="22.1.18" type="github" pages="7">
   <diagram name="2.1" id="XGXpIatfN00QPviRksGG">
     <mxGraphModel dx="902" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -779,7 +779,7 @@
           <mxGeometry x="217.5" y="540" width="227" height="40" as="geometry" />
         </mxCell>
         <mxCell id="899i2fZ2rBsMfKDTlc2U-28" value="3. If user B also has access to user A&#39;s resources, that&#39;s BOLA" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="206" y="648" width="250" height="38" as="geometry" />
+          <mxGeometry x="212" y="648" width="224" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
