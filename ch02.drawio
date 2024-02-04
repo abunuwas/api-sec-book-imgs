@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T00:47:58.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="W4P9JhU_fy0s8mgKVEd7" version="22.1.18" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-04T00:51:57.602Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XmPCL9oBJiCKU3s-bhjs" version="22.1.18" type="github" pages="8">
   <diagram name="2.1" id="XGXpIatfN00QPviRksGG">
     <mxGraphModel dx="902" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -780,6 +780,61 @@
         </mxCell>
         <mxCell id="899i2fZ2rBsMfKDTlc2U-28" value="3. If user B also has access to user A&#39;s resources, that&#39;s BOLA" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="212" y="648" width="224" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kvMeGQw9TQrN-KtRUuYi" name="2.8">
+    <mxGraphModel dx="902" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J6GB-WJVYha3kl5lYyub-1" value="API design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6GB-WJVYha3kl5lYyub-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="319.67" as="sourcePoint" />
+            <mxPoint x="180" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6GB-WJVYha3kl5lYyub-3" value="API implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6GB-WJVYha3kl5lYyub-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="319.67" as="sourcePoint" />
+            <mxPoint x="350" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6GB-WJVYha3kl5lYyub-5" value="API deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6GB-WJVYha3kl5lYyub-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="319.67" as="sourcePoint" />
+            <mxPoint x="520" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6GB-WJVYha3kl5lYyub-7" value="API testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6GB-WJVYha3kl5lYyub-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="319.67" as="sourcePoint" />
+            <mxPoint x="690" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6GB-WJVYha3kl5lYyub-9" value="API security testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6GB-WJVYha3kl5lYyub-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.428;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="J6GB-WJVYha3kl5lYyub-9" target="J6GB-WJVYha3kl5lYyub-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="380" />
+              <mxPoint x="71" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
