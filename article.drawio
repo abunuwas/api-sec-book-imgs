@@ -1,9 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T06:49:15.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.1" etag="3zDSuXgArdIWK6Ew364a" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T14:04:05.276Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="YuhwB3g7I2N1dGzcumV5" version="23.1.6" type="github">
   <diagram name="Page-1" id="yxr2rLmWO5JFuYqCLju9">
-    <mxGraphModel>
+    <mxGraphModel dx="956" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7GerDT9MeRMaXpmiKQM--2" value="Automate tasks" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.automation;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7GerDT9MeRMaXpmiKQM--3" value="Products and services" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.sales;" vertex="1" parent="1">
+          <mxGeometry x="410" y="313" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7GerDT9MeRMaXpmiKQM--4" value="Integration between &lt;br&gt;services" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="7GerDT9MeRMaXpmiKQM--6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="7GerDT9MeRMaXpmiKQM--5" target="7GerDT9MeRMaXpmiKQM--4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="282" />
+              <mxPoint x="290" y="234" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GerDT9MeRMaXpmiKQM--8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="7GerDT9MeRMaXpmiKQM--5" target="7GerDT9MeRMaXpmiKQM--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GerDT9MeRMaXpmiKQM--5" value="APIs" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="68" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="7GerDT9MeRMaXpmiKQM--9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="7GerDT9MeRMaXpmiKQM--5" target="7GerDT9MeRMaXpmiKQM--3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="282" />
+              <mxPoint x="432" y="282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
