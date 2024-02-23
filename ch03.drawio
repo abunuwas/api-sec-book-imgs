@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T17:41:38.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FztIt1ZPcEziSzwat97Y" version="23.1.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-23T17:42:26.228Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GwAME9C5umult7JxfL66" version="23.1.6" type="github" pages="3">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -204,6 +204,12 @@
         </mxCell>
         <mxCell id="gNhqmdtTPiXPrSr1lkuD-17" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" vertex="1" parent="1">
           <mxGeometry x="760" y="365" width="37.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gNhqmdtTPiXPrSr1lkuD-19" value="Vulnerable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="530" y="258" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gNhqmdtTPiXPrSr1lkuD-20" value="Not vulnerable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="733.75" y="395" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
