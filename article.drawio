@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T14:36:01.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CiWGJ88nrLKJLOiPT5x1" version="23.1.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-23T14:36:18.991Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="y1Lk4qySoNdLzoUZ7lUZ" version="23.1.6" type="github" pages="3">
   <diagram name="figure 1" id="yxr2rLmWO5JFuYqCLju9">
     <mxGraphModel dx="956" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
         <mxCell id="nN28XtnOv028NdwJizhX-6" value="Test" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/CloudTest.svg;" vertex="1" parent="1">
           <mxGeometry x="360" y="315" width="25.94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nN28XtnOv028NdwJizhX-8" value="Few vulnerabilities found" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+        <mxCell id="nN28XtnOv028NdwJizhX-8" value="Few vulnerabilities &lt;br&gt;found" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" vertex="1" parent="1">
           <mxGeometry x="560" y="455" width="37.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nN28XtnOv028NdwJizhX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.036;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e2qQsvbYgA4FsvYLTVkl-10" target="nN28XtnOv028NdwJizhX-8">
