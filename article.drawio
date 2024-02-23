@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T14:31:45.166Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="dtUYn0U2D4HkycgQqtrr" version="23.1.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-23T14:36:01.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CiWGJ88nrLKJLOiPT5x1" version="23.1.6" type="github" pages="3">
   <diagram name="figure 1" id="yxr2rLmWO5JFuYqCLju9">
     <mxGraphModel dx="956" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
         <mxCell id="aYE8lIKaCRw36__uLnNU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="aYE8lIKaCRw36__uLnNU-11" target="aYE8lIKaCRw36__uLnNU-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aYE8lIKaCRw36__uLnNU-11" value="Many security &lt;br&gt;vulnerabilities found" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" parent="1" vertex="1">
+        <mxCell id="aYE8lIKaCRw36__uLnNU-11" value="Many&amp;nbsp;vulnerabilities&lt;br&gt;found" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" parent="1" vertex="1">
           <mxGeometry x="752" y="380" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="82K5dVWj6ivYxv1tyFGu-1" value="Redesign, reimplement, redeploy, test again, security test again many times over" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -106,56 +106,74 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nN28XtnOv028NdwJizhX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2qQsvbYgA4FsvYLTVkl-1" target="nN28XtnOv028NdwJizhX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e2qQsvbYgA4FsvYLTVkl-1" value="API design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2qQsvbYgA4FsvYLTVkl-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="319.67" as="sourcePoint" />
-            <mxPoint x="180" y="319.67" as="targetPoint" />
+            <mxPoint x="65" y="259.67" as="sourcePoint" />
+            <mxPoint x="95" y="259.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nN28XtnOv028NdwJizhX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2qQsvbYgA4FsvYLTVkl-3" target="nN28XtnOv028NdwJizhX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e2qQsvbYgA4FsvYLTVkl-3" value="API implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2qQsvbYgA4FsvYLTVkl-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="319.67" as="sourcePoint" />
-            <mxPoint x="350" y="319.67" as="targetPoint" />
+            <mxPoint x="155" y="319.67" as="sourcePoint" />
+            <mxPoint x="185" y="319.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e2qQsvbYgA4FsvYLTVkl-5" value="API deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2qQsvbYgA4FsvYLTVkl-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="319.67" as="sourcePoint" />
-            <mxPoint x="520" y="319.67" as="targetPoint" />
+            <mxPoint x="245" y="387.67" as="sourcePoint" />
+            <mxPoint x="275" y="387.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e2qQsvbYgA4FsvYLTVkl-7" value="API testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2qQsvbYgA4FsvYLTVkl-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="319.67" as="sourcePoint" />
-            <mxPoint x="690" y="319.67" as="targetPoint" />
+            <mxPoint x="335" y="460" as="sourcePoint" />
+            <mxPoint x="365" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2qQsvbYgA4FsvYLTVkl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e2qQsvbYgA4FsvYLTVkl-10" target="e2qQsvbYgA4FsvYLTVkl-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e2qQsvbYgA4FsvYLTVkl-10" value="API security testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="700" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e2qQsvbYgA4FsvYLTVkl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="e2qQsvbYgA4FsvYLTVkl-12" target="e2qQsvbYgA4FsvYLTVkl-1">
+        <mxCell id="nN28XtnOv028NdwJizhX-1" value="Test" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/CloudTest.svg;" vertex="1" parent="1">
+          <mxGeometry x="209.06" y="175" width="25.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nN28XtnOv028NdwJizhX-4" value="Test" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/CloudTest.svg;" vertex="1" parent="1">
+          <mxGeometry x="264.06" y="245" width="25.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nN28XtnOv028NdwJizhX-5" value="Test" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/CloudTest.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="25.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nN28XtnOv028NdwJizhX-6" value="Test" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/CloudTest.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="315" width="25.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nN28XtnOv028NdwJizhX-8" value="Few vulnerabilities found" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+          <mxGeometry x="560" y="455" width="37.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nN28XtnOv028NdwJizhX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.036;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e2qQsvbYgA4FsvYLTVkl-10" target="nN28XtnOv028NdwJizhX-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2qQsvbYgA4FsvYLTVkl-12" value="Security vulnerabilities&lt;br&gt;identified" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" vertex="1" parent="1">
-          <mxGeometry x="752" y="380" width="16" height="16" as="geometry" />
+        <mxCell id="nN28XtnOv028NdwJizhX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.051;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e2qQsvbYgA4FsvYLTVkl-7" target="nN28XtnOv028NdwJizhX-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2qQsvbYgA4FsvYLTVkl-13" value="Redesign, reimplement, redeploy, test again, security test again..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="390" width="380" height="30" as="geometry" />
+        <mxCell id="nN28XtnOv028NdwJizhX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.077;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e2qQsvbYgA4FsvYLTVkl-5" target="nN28XtnOv028NdwJizhX-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
