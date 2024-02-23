@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T14:04:10.067Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="n7Ot281pt5vd9Tp-tjt6" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T14:09:07.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="92wtJDhgnogKpnPve05E" version="23.1.6" type="github" pages="2">
   <diagram name="figure 1" id="yxr2rLmWO5JFuYqCLju9">
     <mxGraphModel dx="956" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,6 +38,62 @@
               <mxPoint x="432" y="282" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pNN4X9f0n3aQW_kHiV0Y" name="figure 2">
+    <mxGraphModel dx="956" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aYE8lIKaCRw36__uLnNU-1" value="API design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="319.67" as="sourcePoint" />
+            <mxPoint x="180" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-3" value="API implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="319.67" as="sourcePoint" />
+            <mxPoint x="350" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-5" value="API deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="319.67" as="sourcePoint" />
+            <mxPoint x="520" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-7" value="API testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="319.67" as="sourcePoint" />
+            <mxPoint x="690" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aYE8lIKaCRw36__uLnNU-9" target="aYE8lIKaCRw36__uLnNU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-9" value="API security testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="aYE8lIKaCRw36__uLnNU-11" target="aYE8lIKaCRw36__uLnNU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYE8lIKaCRw36__uLnNU-11" value="Security vulnerabilities&lt;br&gt;identified" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" vertex="1" parent="1">
+          <mxGeometry x="752" y="380" width="16" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
