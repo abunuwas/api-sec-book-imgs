@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T15:44:54.372Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="P0znqv3wgFlXcSVqo-I3" version="23.1.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-23T15:45:01.399Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="rVbqfvXibYWvY286n6Ew" version="23.1.6" type="github" pages="4">
   <diagram name="figure 1" id="yxr2rLmWO5JFuYqCLju9">
     <mxGraphModel dx="956" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
         <mxCell id="p5ph5rwYTmtZnLpQc37s-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/list-checks-thin-128.png;imageBorder=default;" vertex="1" parent="1">
           <mxGeometry x="310" y="425" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p5ph5rwYTmtZnLpQc37s-12" value="GET /posts&lt;br&gt;POST /posts&lt;br&gt;PUT /posts/1{postId}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="p5ph5rwYTmtZnLpQc37s-12" value="GET /posts&lt;br&gt;POST /posts&lt;br&gt;PUT /posts/{postId}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="417.5" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="p5ph5rwYTmtZnLpQc37s-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
