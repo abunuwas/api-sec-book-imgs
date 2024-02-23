@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T17:08:57.030Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.6" etag="I96q7mj6AbGhdQqsa2Ug" type="github">
-  <diagram name="Page-1" id="JjyUlYZhettKr20n02VA">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-02-23T17:10:58.413Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="n4YZgTpzd4V0fkejQa2v" version="23.1.6" type="github">
+  <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
+    <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-1" value="API design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="319.67" as="sourcePoint" />
+            <mxPoint x="180" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-3" value="API implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="319.67" as="sourcePoint" />
+            <mxPoint x="350" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-5" value="API deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="319.67" as="sourcePoint" />
+            <mxPoint x="520" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-7" value="API testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="319.67" as="sourcePoint" />
+            <mxPoint x="690" y="319.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f8et4zQYmp7AX-IT2wCH-10" target="f8et4zQYmp7AX-IT2wCH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-10" value="API security testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="f8et4zQYmp7AX-IT2wCH-12" target="f8et4zQYmp7AX-IT2wCH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-12" value="Many&amp;nbsp;vulnerabilities&lt;br&gt;found" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" vertex="1" parent="1">
+          <mxGeometry x="752" y="380" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="f8et4zQYmp7AX-IT2wCH-13" value="Redesign, reimplement, redeploy, test again, security test again many times over" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="198" y="390" width="455" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
