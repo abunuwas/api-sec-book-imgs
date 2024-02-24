@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T07:41:17.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CVd3J5MzrcqnjViaJ0z_" version="23.1.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-02-24T21:53:20.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="I9EMGXBnGycULge74B4N" version="23.1.6" type="github" pages="12">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -955,6 +955,41 @@
         </mxCell>
         <mxCell id="aBmzlQDzwJW3Bxgb8tj_-3" value="Validated payload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="560" y="442" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="a9ySTixcmPRcbTdQfLnl" name="3.12">
+    <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b8v5oGKqUPrhU_b0J6Ed-1" value="Book" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="190" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="b8v5oGKqUPrhU_b0J6Ed-2" value="+ title: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="b8v5oGKqUPrhU_b0J6Ed-1">
+          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="b8v5oGKqUPrhU_b0J6Ed-4" value="+ author: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="b8v5oGKqUPrhU_b0J6Ed-1">
+          <mxGeometry y="52" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="b8v5oGKqUPrhU_b0J6Ed-5" value="+ format: enum(printed, ebook)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="b8v5oGKqUPrhU_b0J6Ed-1">
+          <mxGeometry y="78" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="b8v5oGKqUPrhU_b0J6Ed-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b8v5oGKqUPrhU_b0J6Ed-6" target="b8v5oGKqUPrhU_b0J6Ed-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b8v5oGKqUPrhU_b0J6Ed-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;" vertex="1" parent="1">
+          <mxGeometry x="30" y="383" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="b8v5oGKqUPrhU_b0J6Ed-7" value="Book catalog API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b8v5oGKqUPrhU_b0J6Ed-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b8v5oGKqUPrhU_b0J6Ed-10" value="POST /books&lt;br&gt;&lt;br&gt;{&lt;br&gt;&amp;nbsp; &quot;title&quot;: &quot;Microservice APIs&quot;,&lt;br&gt;&amp;nbsp; &quot;author&quot;: &quot;Jose Haro Peralta&quot;,&lt;br&gt;&amp;nbsp; &quot;format&quot;: &quot;digital&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="190" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
