@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T06:31:42.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8GegNcJh28HE6OO8i3LD" version="23.1.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-24T06:32:18.831Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8_oupXMiCpZ9FMBJhhrU" version="23.1.6" type="github" pages="7">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -640,11 +640,11 @@
         <mxCell id="Z7_rrW2YlN7jhXM0oBI--8" value="5) Validate all data in each request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="90" y="346" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z7_rrW2YlN7jhXM0oBI--11" value="6) Validate all data in responses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="Z7_rrW2YlN7jhXM0oBI--11" value="6) Validate data in responses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="652.5" y="290" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z7_rrW2YlN7jhXM0oBI--12" value="7) Validate data from third-party APIs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="540" y="10" width="155" height="40" as="geometry" />
+          <mxGeometry x="547.5" y="10" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z7_rrW2YlN7jhXM0oBI--13" value="8) Validate data from internal services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="573.75" y="146" width="142.5" height="40" as="geometry" />
