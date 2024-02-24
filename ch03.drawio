@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T22:26:27.408Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-SaQ2bZGIZCjEEIK4LeP" version="23.1.6" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-02-24T22:34:08.945Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jkkDE-3bTJVQVDKS0nly" version="23.1.6" type="github" pages="15">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1177,6 +1177,60 @@
         </mxCell>
         <mxCell id="dTtx-C9Ex39yBMdohw-b-19" value="Find coordiantes of current location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="140" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wdLV_WDPoOv9qMwtiV7d" name="3.15">
+    <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="CMuSxHeXmXeznp7QqAzz-1" target="CMuSxHeXmXeznp7QqAzz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-1" value="User service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMuSxHeXmXeznp7QqAzz-2" target="CMuSxHeXmXeznp7QqAzz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="CMuSxHeXmXeznp7QqAzz-2" target="CMuSxHeXmXeznp7QqAzz-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="CMuSxHeXmXeznp7QqAzz-3" target="CMuSxHeXmXeznp7QqAzz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-3" value="External identity provider" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-4" value="PATCH /profile&lt;br&gt;{&lt;br&gt;&amp;nbsp; &quot;address&quot;: &quot;drop table users--;&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="189" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-8" value="Threat actor updates their profile with malicious code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;spacing=10;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="189" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-10" value="POST /register" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="284.5" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-11" value="Threat actor registers with our service bringing their details from the external identity provider" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;spacing=10;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="189" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-12" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/KDE_Crystal_Diamond_2.5_Classical_Mod/22x22/apps/clanbomber.png" vertex="1" parent="1">
+          <mxGeometry x="640" y="269" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CMuSxHeXmXeznp7QqAzz-15" target="CMuSxHeXmXeznp7QqAzz-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
