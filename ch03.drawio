@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T22:26:15.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="U6nMkl1eaUegIiFvYPPz" version="23.1.6" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-02-24T22:26:27.408Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-SaQ2bZGIZCjEEIK4LeP" version="23.1.6" type="github" pages="14">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1122,7 +1122,7 @@
         <mxCell id="dTtx-C9Ex39yBMdohw-b-5" value="GET /orders/{id}/tracking" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dTtx-C9Ex39yBMdohw-b-1">
           <mxGeometry y="104" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dTtx-C9Ex39yBMdohw-b-6" value="Third-party payments processor (Stripe, GoCardless, etc.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTtx-C9Ex39yBMdohw-b-6" value="Third-party payments processor (Stripe, GoCardless, etc.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="630" y="130" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTtx-C9Ex39yBMdohw-b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="dTtx-C9Ex39yBMdohw-b-4" target="dTtx-C9Ex39yBMdohw-b-6">
@@ -1133,7 +1133,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTtx-C9Ex39yBMdohw-b-8" value="Third-party delivery&lt;br&gt;service API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTtx-C9Ex39yBMdohw-b-8" value="Third-party delivery&lt;br&gt;service API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="635" y="295" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dTtx-C9Ex39yBMdohw-b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="dTtx-C9Ex39yBMdohw-b-4" target="dTtx-C9Ex39yBMdohw-b-8">
@@ -1144,10 +1144,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTtx-C9Ex39yBMdohw-b-10" value="Third-party geolocation API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTtx-C9Ex39yBMdohw-b-10" value="Third-party geolocation API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="635" y="370" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dTtx-C9Ex39yBMdohw-b-11" value="Third-party &lt;br&gt;email service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTtx-C9Ex39yBMdohw-b-11" value="Third-party &lt;br&gt;email service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="645" y="215" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dTtx-C9Ex39yBMdohw-b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="dTtx-C9Ex39yBMdohw-b-4" target="dTtx-C9Ex39yBMdohw-b-11">
@@ -1166,16 +1166,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTtx-C9Ex39yBMdohw-b-16" value="Process payment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="dTtx-C9Ex39yBMdohw-b-16" value="Process payment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="470" y="130" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dTtx-C9Ex39yBMdohw-b-17" value="Send confirmation email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="dTtx-C9Ex39yBMdohw-b-17" value="Send confirmation email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="480" y="210" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dTtx-C9Ex39yBMdohw-b-18" value="Arrange delivery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="dTtx-C9Ex39yBMdohw-b-18" value="Arrange delivery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="505" y="290" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dTtx-C9Ex39yBMdohw-b-19" value="Find coordiantes of current location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="dTtx-C9Ex39yBMdohw-b-19" value="Find coordiantes of current location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="140" height="35" as="geometry" />
         </mxCell>
       </root>
