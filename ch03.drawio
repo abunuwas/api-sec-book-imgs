@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T06:46:23.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aXp05ikF6S025YCHHHrg" version="23.1.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-24T06:59:18.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZSZj_Ah2uomX1z9joMQ9" version="23.1.6" type="github" pages="8">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-prkkAkmD-is9fNZr6EH" name="3.7">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -706,30 +706,57 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mejavYFrO45JIYCJimM3" name="3.8">
-    <mxGraphModel dx="2109" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1689" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_0Od80wzXh9d_3NGn81n-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="50" width="180" height="110" as="geometry" />
+          <mxGeometry x="-762.5" y="50" width="125" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_qXJW2AyG7EWXpfDRCD5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_0Od80wzXh9d_3NGn81n-2" target="_qXJW2AyG7EWXpfDRCD5-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_0Od80wzXh9d_3NGn81n-2" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;typ&quot;: &quot;JWT&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;alg&quot;: &quot;RS256&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFB570;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="80" width="160" height="70" as="geometry" />
+          <mxGeometry x="-756.5" y="84" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_0Od80wzXh9d_3NGn81n-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="180" width="240" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="_0Od80wzXh9d_3NGn81n-4" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;iss&quot;: &quot;https://auth.microapis.io/&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;sub&quot;: &quot;ec7bbccf&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;aud&quot;: &quot;https://microapis.io/api/learning&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;iat&quot;: 1638228486.159881,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;exp&quot;: 1638314886.159881,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;scope&quot;: &quot;openid&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="_qXJW2AyG7EWXpfDRCD5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_0Od80wzXh9d_3NGn81n-4" target="_qXJW2AyG7EWXpfDRCD5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_0Od80wzXh9d_3NGn81n-4" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;iss&quot;: &quot;https://auth.microapis.io/&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;sub&quot;: &quot;ec7bbccf&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;aud&quot;: &quot;https://microapis.io/api/learning&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;iat&quot;: 1638228486.159881,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;exp&quot;: 1638314886.159881,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;permissions&quot;: [...]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="-810" y="210" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_0Od80wzXh9d_3NGn81n-5" value="Header" style="text;html=1;strokeColor=none;fillColor=#FFB570;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="50" width="180" height="30" as="geometry" />
+          <mxGeometry x="-762.5" y="48" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_0Od80wzXh9d_3NGn81n-6" value="Payload (claims)" style="text;html=1;strokeColor=none;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-820" y="179" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_qXJW2AyG7EWXpfDRCD5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_0Od80wzXh9d_3NGn81n-8" target="_qXJW2AyG7EWXpfDRCD5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_0Od80wzXh9d_3NGn81n-8" value="Signature" style="text;html=1;strokeColor=none;fillColor=#B5739D;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-820" y="390" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qXJW2AyG7EWXpfDRCD5-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/list-checks-thin-128.png;imageBorder=default;imageBackground=default;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qXJW2AyG7EWXpfDRCD5-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/list-checks-thin-128.png;imageBorder=default;imageBackground=default;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="265" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qXJW2AyG7EWXpfDRCD5-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/list-checks-thin-128.png;imageBorder=default;imageBackground=default;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="104" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qXJW2AyG7EWXpfDRCD5-7" value="Validate the signature is correct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-576" y="375" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qXJW2AyG7EWXpfDRCD5-8" value="Validate all the claims. Is the audience correct? What about the issuier, the permissions, the expiry date?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="-563" y="190" width="154" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_qXJW2AyG7EWXpfDRCD5-9" value="Validate the headers. Does &quot;alg&quot; have the right value?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="60" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
