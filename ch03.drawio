@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T06:32:18.831Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8_oupXMiCpZ9FMBJhhrU" version="23.1.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-24T06:46:23.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aXp05ikF6S025YCHHHrg" version="23.1.6" type="github" pages="8">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-prkkAkmD-is9fNZr6EH" name="3.7">
-    <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -701,6 +701,35 @@
         </mxCell>
         <mxCell id="Z7_rrW2YlN7jhXM0oBI--42" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="212.5" width="10" height="11" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mejavYFrO45JIYCJimM3" name="3.8">
+    <mxGraphModel dx="2109" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_0Od80wzXh9d_3NGn81n-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="50" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_0Od80wzXh9d_3NGn81n-2" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;typ&quot;: &quot;JWT&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;alg&quot;: &quot;RS256&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="80" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_0Od80wzXh9d_3NGn81n-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="180" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_0Od80wzXh9d_3NGn81n-4" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;iss&quot;: &quot;https://auth.microapis.io/&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;sub&quot;: &quot;ec7bbccf&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;aud&quot;: &quot;https://microapis.io/api/learning&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;iat&quot;: 1638228486.159881,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;exp&quot;: 1638314886.159881,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;scope&quot;: &quot;openid&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="210" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_0Od80wzXh9d_3NGn81n-5" value="Header" style="text;html=1;strokeColor=none;fillColor=#FFB570;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_0Od80wzXh9d_3NGn81n-6" value="Payload (claims)" style="text;html=1;strokeColor=none;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="179" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_0Od80wzXh9d_3NGn81n-8" value="Signature" style="text;html=1;strokeColor=none;fillColor=#B5739D;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="390" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
