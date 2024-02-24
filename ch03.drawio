@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T22:45:28.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="RNI28dSbGAUIf7DyM9p8" version="23.1.6" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-02-24T22:45:34.512Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="TzE04KZE9wq6VVFb77pd" version="23.1.6" type="github" pages="16">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1291,16 +1291,16 @@
         <mxCell id="KhMnvQa3QN4-mZHfRxXs-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" vertex="1" parent="1">
           <mxGeometry x="317" y="390" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="KhMnvQa3QN4-mZHfRxXs-15" value="User checks the status of their order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="KhMnvQa3QN4-mZHfRxXs-15" value="User checks the status of their order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="110" y="250" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="KhMnvQa3QN4-mZHfRxXs-16" value="Orders API checks order&#39;s status with payments service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="KhMnvQa3QN4-mZHfRxXs-16" value="Orders API checks order&#39;s status with payments service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="415" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KhMnvQa3QN4-mZHfRxXs-17" value="Payments service returns a unexpected value" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="KhMnvQa3QN4-mZHfRxXs-17" value="Payments service returns a unexpected value" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="430" y="200" width="170" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="KhMnvQa3QN4-mZHfRxXs-18" value="Orders API fails to process the payments service&#39;s response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="KhMnvQa3QN4-mZHfRxXs-18" value="Orders API fails to process the payments service&#39;s response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="390" y="350" width="180" height="48" as="geometry" />
         </mxCell>
       </root>
