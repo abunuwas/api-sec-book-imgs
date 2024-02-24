@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T22:34:08.945Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jkkDE-3bTJVQVDKS0nly" version="23.1.6" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-02-24T22:34:59.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mYTf0EBFnuA0gPV0aUNY" version="23.1.6" type="github" pages="15">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1221,7 +1221,7 @@
           <mxGeometry x="284.5" y="250" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CMuSxHeXmXeznp7QqAzz-11" value="Threat actor registers with our service bringing their details from the external identity provider" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;spacing=10;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="250" y="170" width="189" height="80" as="geometry" />
+          <mxGeometry x="269.5" y="170" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CMuSxHeXmXeznp7QqAzz-12" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="690" y="240" width="60" height="80" as="geometry" />
@@ -1231,6 +1231,9 @@
         </mxCell>
         <mxCell id="CMuSxHeXmXeznp7QqAzz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CMuSxHeXmXeznp7QqAzz-15" target="CMuSxHeXmXeznp7QqAzz-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMuSxHeXmXeznp7QqAzz-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="107" width="176" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
