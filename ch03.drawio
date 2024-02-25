@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T08:45:00.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4GRjZIlJeBborSviB4AV" version="23.1.6" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2024-02-25T08:47:20.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ebjeinWgo2iOKXkmlSgX" version="23.1.6" type="github" pages="22">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1870,8 +1870,41 @@
         <mxCell id="Jh4uLhDLPyFemuGNStpk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Jh4uLhDLPyFemuGNStpk-1" target="_xnAXAodaOxqcd8iLo1k-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Jh4uLhDLPyFemuGNStpk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Jh4uLhDLPyFemuGNStpk-11" target="Jh4uLhDLPyFemuGNStpk-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="191" />
+              <mxPoint x="90" y="89" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jh4uLhDLPyFemuGNStpk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.994;exitY=0.596;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" edge="1" parent="1" source="Jh4uLhDLPyFemuGNStpk-11" target="_xnAXAodaOxqcd8iLo1k-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="192" />
+              <mxPoint x="90" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jh4uLhDLPyFemuGNStpk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jh4uLhDLPyFemuGNStpk-11" target="Jh4uLhDLPyFemuGNStpk-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="193" />
+              <mxPoint x="90" y="193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Jh4uLhDLPyFemuGNStpk-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
-          <mxGeometry x="132" y="210" width="70" height="70" as="geometry" />
+          <mxGeometry y="150" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh4uLhDLPyFemuGNStpk-13" value="GET /api/orders/v1/orders" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="90" y="58" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh4uLhDLPyFemuGNStpk-15" value="GET /api/all-customers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="130" y="235" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh4uLhDLPyFemuGNStpk-17" value="GET /admin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="130" y="163" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
