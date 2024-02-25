@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T08:05:14.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZrjvB-kgsbvNlqsQYQSI" version="23.1.6" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2024-02-25T08:07:01.477Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tMc2P_Zl1i5GoYvS3p11" version="23.1.6" type="github" pages="20">
   <diagram name="3.1" id="JjyUlYZhettKr20n02VA">
     <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1495,7 +1495,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bOnQGyk3_v08Mc2hY3eb" name="3.20">
-    <mxGraphModel dx="2175" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2109" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1678,7 +1678,7 @@
         <mxCell id="ZuGIAbm5iU4EfkSayqPh-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="1">
           <mxGeometry x="658" y="310" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZuGIAbm5iU4EfkSayqPh-16" value="Status cod: 200" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="ZuGIAbm5iU4EfkSayqPh-16" value="Status code: 200" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="430" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
