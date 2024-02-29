@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T12:48:37.766Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Yjf09-fLQSvKhqNNi2XY" version="23.1.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-29T12:52:35.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Hk-2gd6d_hP8Om2NL0AE" version="23.1.8" type="github" pages="9">
   <diagram name="2.1" id="XGXpIatfN00QPviRksGG">
     <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6HwyyKca93xHwDa4s0Am-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="263" y="680" width="167" height="130" as="geometry" />
+          <mxGeometry x="263" y="680" width="227" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="323" y="100" width="227" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="605" y="265" width="160" height="230" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="380" y="190" width="360" height="55" as="geometry" />
+          <mxGeometry x="380" y="190" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="645" y="510" width="190" height="135" as="geometry" />
@@ -124,8 +124,8 @@
         <mxCell id="6HwyyKca93xHwDa4s0Am-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="6HwyyKca93xHwDa4s0Am-30" target="6HwyyKca93xHwDa4s0Am-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6HwyyKca93xHwDa4s0Am-30" value="Robust access controls: users can&#39;t get their hands on the wrong data" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="15" y="595" width="190" height="50" as="geometry" />
+        <mxCell id="6HwyyKca93xHwDa4s0Am-30" value="Robust access controls" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="15" y="595" width="190" height="25" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-31" value="Hacker" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" parent="1" vertex="1">
           <mxGeometry x="35" y="475" width="58" height="58" as="geometry" />
@@ -144,8 +144,8 @@
         <mxCell id="6HwyyKca93xHwDa4s0Am-35" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="765" y="525" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6HwyyKca93xHwDa4s0Am-36" value="Secure implementation: robust data validation, parametrized queries, etc." style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="645" y="595" width="190" height="50" as="geometry" />
+        <mxCell id="6HwyyKca93xHwDa4s0Am-36" value="Secure implementation" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="645" y="595" width="190" height="25" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-38" value="Malicious payload" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="655" y="530" width="90" height="50" as="geometry" />
@@ -167,8 +167,8 @@
         <mxCell id="6HwyyKca93xHwDa4s0Am-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/list-checks-thin-128.png" parent="1" vertex="1">
           <mxGeometry x="680" y="195" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="6HwyyKca93xHwDa4s0Am-47" value="Secure testing: design security testing, fuzzy testers, runtime security testers" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="380" y="190" width="190" height="55" as="geometry" />
+        <mxCell id="6HwyyKca93xHwDa4s0Am-47" value="Secure testing" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="380" y="190" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="6HwyyKca93xHwDa4s0Am-48" target="6HwyyKca93xHwDa4s0Am-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -187,8 +187,8 @@
             <mxPoint x="670" y="217.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6HwyyKca93xHwDa4s0Am-52" value="Risk analysis: prioritize vulnerabilities" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="15" y="680" width="165" height="40" as="geometry" />
+        <mxCell id="6HwyyKca93xHwDa4s0Am-52" value="Risk analysis" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="15" y="680" width="165" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/list-checks-thin-128.png" parent="1" vertex="1">
           <mxGeometry x="180" y="680" width="40" height="40" as="geometry" />
@@ -199,8 +199,8 @@
         <mxCell id="6HwyyKca93xHwDa4s0Am-55" value="Know what to do when an incident happens" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="323.25" y="120" width="164.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6HwyyKca93xHwDa4s0Am-56" value="Training: raise awareness about API security" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="262.75" y="680" width="167.25" height="50" as="geometry" />
+        <mxCell id="6HwyyKca93xHwDa4s0Am-56" value="Training" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="262.75" y="680" width="227.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-57" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" parent="1" vertex="1">
           <mxGeometry x="503.5" y="112.75" width="30" height="34.5" as="geometry" />
@@ -239,13 +239,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-72" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="294" y="740" width="15" height="30" as="geometry" />
+          <mxGeometry x="315" y="743.75" width="15" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-75" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" parent="1" vertex="1">
-          <mxGeometry x="390.5" y="743.75" width="30" height="34.5" as="geometry" />
+          <mxGeometry x="420" y="745.5" width="30" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="6HwyyKca93xHwDa4s0Am-77" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="335" y="746" width="35" height="30" as="geometry" />
+          <mxGeometry x="355" y="746" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJNoPbnEmkh0_UH1h1oi-1" value="Incident detection" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="38" y="130" width="242" height="30" as="geometry" />
@@ -259,8 +259,23 @@
         <mxCell id="nJNoPbnEmkh0_UH1h1oi-5" value="Identify all your endpoints" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="605" y="290" width="160" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="nJNoPbnEmkh0_UH1h1oi-6" value="Implement best practices and standards" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nJNoPbnEmkh0_UH1h1oi-6" value="Implement best practices and standards" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="235" y="540" width="205" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nJNoPbnEmkh0_UH1h1oi-7" value="Users can&#39;t get their hands on the wrong data" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="15" y="620" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nJNoPbnEmkh0_UH1h1oi-8" value="Prioritize vulnerabilities" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="15" y="700" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nJNoPbnEmkh0_UH1h1oi-9" value="Raise awareness about API security" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="263" y="700" width="227" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nJNoPbnEmkh0_UH1h1oi-11" value="Robust data validation, parametrized queries, etc." style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="645" y="620" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nJNoPbnEmkh0_UH1h1oi-12" value="Design security testing, fuzzy testers, runtime security testers" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
