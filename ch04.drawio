@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T10:10:04.959Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NvxgllfSDfFOfVRJYl_P" version="24.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-09T10:10:41.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="q2bXhJBJM7zqxNw6NHwj" version="24.2.2" type="github" pages="7">
   <diagram name="4.1" id="sIn2r0iPfQ3s1HcsIE7A">
     <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -661,7 +661,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IFbt7oxrxhlHc06KukZL" name="4.7">
-    <mxGraphModel dx="1325" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -692,6 +692,12 @@
         </mxCell>
         <mxCell id="31daXAyrYhup1bhNT8F7-26" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;Status code: 201&lt;/div&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;id&quot;: &quot;7be44a87-6b62-4028-bad5&quot;,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;amount&quot;: 1000&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;destination&quot;: &quot;&lt;span style=&quot;background-color: initial;&quot;&gt;GB24BKEN10000031510604&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &quot;status&quot;: &quot;settled&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=#f9f7ed;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;spacingLeft=7;spacingBottom=7;spacingTop=7;spacing=7;dashed=1;spacingRight=7;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="31daXAyrYhup1bhNT8F7-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="31daXAyrYhup1bhNT8F7-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
