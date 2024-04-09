@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T11:03:19.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xV66Gdf9ri1oRUFJsOxt" version="24.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-09T11:31:37.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uphdv2aqHWgSTqqJLtuR" version="24.2.2" type="github" pages="10">
   <diagram name="4.1" id="sIn2r0iPfQ3s1HcsIE7A">
     <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -843,6 +843,42 @@
         </mxCell>
         <mxCell id="9pXOyjRaR-LVodtDWHne-63" value="&lt;div&gt;@app.get(&quot;/users&quot;)&lt;/div&gt;def find_user_by_email(email: str):&lt;div&gt;&amp;nbsp; &amp;nbsp; user = db.find_by_email(email=email)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; return user.dict()&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="75" y="252" width="345" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TwqkkuHsh-VkHz2bu7kO" name="4.10">
+    <mxGraphModel dx="681" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GIs2WutdwwLrejbieTnr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="GIs2WutdwwLrejbieTnr-2" target="GIs2WutdwwLrejbieTnr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GIs2WutdwwLrejbieTnr-2" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;POST /calculate-premium&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;vehicle&quot;: {&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;make&quot;: &quot;Toyota&quot;,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;model&quot;: &quot;Prius&quot;,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;year&quot;: 2018,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;mileage&quot;: 50000&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;driving_history&quot;: {&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;accidents&quot;: 0,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;tickets&quot;: 1&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; }&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=#f9f7ed;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;spacingLeft=7;spacingBottom=7;spacingTop=7;spacing=7;dashed=1;spacingRight=7;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1.25" width="330" height="252.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GIs2WutdwwLrejbieTnr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="GIs2WutdwwLrejbieTnr-4" target="GIs2WutdwwLrejbieTnr-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GIs2WutdwwLrejbieTnr-4" value="Car insurance API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GIs2WutdwwLrejbieTnr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="GIs2WutdwwLrejbieTnr-6" target="GIs2WutdwwLrejbieTnr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GIs2WutdwwLrejbieTnr-6" value="Threat actor" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GIs2WutdwwLrejbieTnr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="GIs2WutdwwLrejbieTnr-8" target="GIs2WutdwwLrejbieTnr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GIs2WutdwwLrejbieTnr-8" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;Status code: 200&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;id&quot;: &quot;7be44a87-6b62-4028-bad5&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;name&quot;: &quot;Harry Potter&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;email&quot;: &quot;&lt;span style=&quot;background-color: initial;&quot;&gt;harry.potter@apithreats.com&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &quot;address&quot;: &quot;4 Privet Drive, Little Whinging, Surrey&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &quot;birth_date&quot;: &quot;1980-07-31&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=#f9f7ed;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;spacingLeft=7;spacingBottom=7;spacingTop=7;spacing=7;dashed=1;spacingRight=7;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="350" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
