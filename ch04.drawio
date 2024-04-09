@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:38:57.012Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tVfpP1YB7QTpNkrSnJIH" version="24.2.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-04-09T12:39:01.381Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rQCTsEtM7JspYN4y6Wf8" version="24.2.2" type="github" pages="11">
   <diagram name="4.1" id="sIn2r0iPfQ3s1HcsIE7A">
     <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -944,7 +944,7 @@
         <mxCell id="6Mthvpe84iEIr6iPZXVd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="6Mthvpe84iEIr6iPZXVd-4" target="6Mthvpe84iEIr6iPZXVd-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6Mthvpe84iEIr6iPZXVd-4" value="Browser client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6Mthvpe84iEIr6iPZXVd-4" value="Browser client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Mthvpe84iEIr6iPZXVd-10" value="&lt;div&gt;Status code: 200&lt;/div&gt;{&lt;div&gt;&amp;nbsp; &quot;products&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;id&quot;: 1, &quot;discount&quot;: 50, &quot;min_loyalty_points&quot;: 100},&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&quot;id&quot;: 2, &quot;discount&quot;: 70, &quot;min_loyalty_points&quot;: 300},&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&quot;id&quot;: 3, &quot;discount&quot;: 20, &quot;min_loyalty_points&quot;: 40}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; ]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;spacing=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
