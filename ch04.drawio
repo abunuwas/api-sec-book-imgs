@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T10:10:41.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="q2bXhJBJM7zqxNw6NHwj" version="24.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-09T10:48:33.288Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qqGkqWqwC8FHw0x9PvVM" version="24.2.2" type="github" pages="8">
   <diagram name="4.1" id="sIn2r0iPfQ3s1HcsIE7A">
     <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -698,6 +698,42 @@
         </mxCell>
         <mxCell id="31daXAyrYhup1bhNT8F7-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="v9GO6HBO41u2NrhhVM-E" name="4.8">
+    <mxGraphModel dx="968" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CZKph5CbtdBJDgWQfEKv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="CZKph5CbtdBJDgWQfEKv-2" target="CZKph5CbtdBJDgWQfEKv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKph5CbtdBJDgWQfEKv-2" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;GET /users?email=harry.potter@apithreats.com&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=#f9f7ed;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;spacingLeft=7;spacingBottom=7;spacingTop=7;spacing=7;dashed=1;spacingRight=7;" vertex="1" parent="1">
+          <mxGeometry x="240" y="105" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKph5CbtdBJDgWQfEKv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="CZKph5CbtdBJDgWQfEKv-4" target="CZKph5CbtdBJDgWQfEKv-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKph5CbtdBJDgWQfEKv-4" value="User search API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKph5CbtdBJDgWQfEKv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="CZKph5CbtdBJDgWQfEKv-6" target="CZKph5CbtdBJDgWQfEKv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKph5CbtdBJDgWQfEKv-6" value="Threat actor" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKph5CbtdBJDgWQfEKv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="CZKph5CbtdBJDgWQfEKv-8" target="CZKph5CbtdBJDgWQfEKv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKph5CbtdBJDgWQfEKv-8" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;Status code: 200&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;id&quot;: &quot;7be44a87-6b62-4028-bad5&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;name&quot;: &quot;Harry Potter&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;&amp;nbsp; &quot;email&quot;: &quot;&lt;span style=&quot;background-color: initial;&quot;&gt;harry.potter@apithreats.com&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &quot;address&quot;: &quot;4 Privet Drive, Little Whinging, Surrey&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=#f9f7ed;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;spacingLeft=7;spacingBottom=7;spacingTop=7;spacing=7;dashed=1;spacingRight=7;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="350" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
