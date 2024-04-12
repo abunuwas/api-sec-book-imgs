@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T09:38:54.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wB72aGley4I_HNzdveOD" version="24.2.3" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-04-12T09:51:49.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qr4O8ELpOIYyCgDD3SLc" version="24.2.3" type="github" pages="25">
   <diagram name="4.1" id="sIn2r0iPfQ3s1HcsIE7A">
     <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2019,10 +2019,46 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OVwId1aVnBFH6HifRv_S" name="4.25">
-    <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NWBlIvGVPRIj3LaU93AY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="NWBlIvGVPRIj3LaU93AY-11" target="NWBlIvGVPRIj3LaU93AY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBlIvGVPRIj3LaU93AY-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBlIvGVPRIj3LaU93AY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="NWBlIvGVPRIj3LaU93AY-12" target="NWBlIvGVPRIj3LaU93AY-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NWBlIvGVPRIj3LaU93AY-12" value="AI server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBlIvGVPRIj3LaU93AY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="NWBlIvGVPRIj3LaU93AY-13" target="NWBlIvGVPRIj3LaU93AY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBlIvGVPRIj3LaU93AY-13" value="GET /catalog/bad-id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="285" y="315" width="140" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Status code: 500&lt;div&gt;{&quot;error&quot;: &quot;(psycopg2.errors.SyntaxError) syntax error at or near &quot;AND&quot;\nLINE 16...&quot;}&lt;/div&gt;" link="{&#xa;    &quot;error&quot;: &quot;(psycopg2.errors.SyntaxError) syntax error at or near &quot;AND&quot;\nLINE 16...&quot;&#xa;}" id="NWBlIvGVPRIj3LaU93AY-19">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;spacing=10;fillColor=#f8cecc;" vertex="1" parent="1">
+            <mxGeometry x="125" y="380" width="460" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="NWBlIvGVPRIj3LaU93AY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.045;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="NWBlIvGVPRIj3LaU93AY-19" target="NWBlIvGVPRIj3LaU93AY-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="405" />
+              <mxPoint x="80" y="337" />
+              <mxPoint x="108" y="337" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
