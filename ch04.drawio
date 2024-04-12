@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T09:07:11.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rupOy0jVW_BDVPMR1iA_" version="24.2.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2024-04-12T09:13:52.637Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zlB0dVnSSCHrbouS8_s1" version="24.2.3" type="github" pages="23">
   <diagram name="4.1" id="sIn2r0iPfQ3s1HcsIE7A">
     <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1880,6 +1880,75 @@
         </mxCell>
         <mxCell id="rDQ7dvM6hPFcI1e35EJh-20" value="4) Store sends payment confirmation to customer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="165" y="100" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YMkeATRTj23trEfBo0D9" name="4.23">
+    <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VEsSsyrLayvzniv7ffkA-1" value="Payments API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-2" value="E-store" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="VEsSsyrLayvzniv7ffkA-5" target="VEsSsyrLayvzniv7ffkA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="VEsSsyrLayvzniv7ffkA-5" target="VEsSsyrLayvzniv7ffkA-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="100" y="225" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="VEsSsyrLayvzniv7ffkA-7" target="VEsSsyrLayvzniv7ffkA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-7" value="POST /checkout" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="VEsSsyrLayvzniv7ffkA-9" target="VEsSsyrLayvzniv7ffkA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="330" />
+              <mxPoint x="480" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-9" value="POST /pay" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="VEsSsyrLayvzniv7ffkA-11" target="VEsSsyrLayvzniv7ffkA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-11" value="Webhook:&lt;div&gt;onPaymentSuccess:&lt;/div&gt;&lt;div&gt;http://localhost:8080/jobs&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=10;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="565" y="160" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.71;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="VEsSsyrLayvzniv7ffkA-1" target="VEsSsyrLayvzniv7ffkA-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="676" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-16" value="1) Customer checks out an order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-17" value="2) Customer pays using our API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-18" value="3) If payment is successful, we execute the webhook" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;spacing=5;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="495" y="230" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VEsSsyrLayvzniv7ffkA-20" value="Error message:&lt;div&gt;404 Not Found&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="415" y="150" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
