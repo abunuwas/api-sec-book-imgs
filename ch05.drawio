@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T21:14:13.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1fClgX1BOYh5gSDQ3B3E" version="24.7.2" type="github">
-  <diagram name="Page-1" id="tPfWv-KvZIML5b-OxrrU">
+<mxfile host="app.diagrams.net" modified="2024-07-21T21:18:29.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lEw1ThFkOt5XhJihBLe6" version="24.7.2" type="github" pages="2">
+  <diagram name="5.1" id="tPfWv-KvZIML5b-OxrrU">
     <mxGraphModel dx="1995" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -87,6 +87,32 @@
             <mxPoint x="680" y="74.55000000000001" as="sourcePoint" />
             <mxPoint x="650" y="74.55000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="exQNkPFlKrOKUaBLBfif" name="5.2">
+    <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5T6bsQ87ab-cUzLREn2h-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5T6bsQ87ab-cUzLREn2h-2" value="E-commerce API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5T6bsQ87ab-cUzLREn2h-3" value="GET /products?perPage=100000000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5T6bsQ87ab-cUzLREn2h-4" value="GET /products?perPage=0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5T6bsQ87ab-cUzLREn2h-5" value="GET /products?perPage=-100" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5T6bsQ87ab-cUzLREn2h-6" value="GET /products?page=-100" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
