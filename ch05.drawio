@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T06:30:42.747Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Vvcjl3qtkElk3pfLQfmb" version="24.7.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-22T06:37:12.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rgvgDlP69knwVaSC95V-" version="24.7.2" type="github" pages="11">
   <diagram name="5.1" id="tPfWv-KvZIML5b-OxrrU">
     <mxGraphModel dx="1995" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -722,12 +722,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hxzyYtv1LK4L28B8gBBh" name="5.11">
-    <mxGraphModel dx="600" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="741" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uLeD5cmNFWT7-957sbNK-1" value="Book:&lt;div&gt;&amp;nbsp; type: object&lt;/div&gt;&lt;div&gt;&amp;nbsp; properties:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; author:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; type: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; title:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; type: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; additionalProperties: false&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+        <mxCell id="uLeD5cmNFWT7-957sbNK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="uLeD5cmNFWT7-957sbNK-8" target="uLeD5cmNFWT7-957sbNK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLeD5cmNFWT7-957sbNK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="uLeD5cmNFWT7-957sbNK-10" target="uLeD5cmNFWT7-957sbNK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLeD5cmNFWT7-957sbNK-1" value="Book:&lt;div&gt;&amp;nbsp; type: object&lt;/div&gt;&lt;div&gt;&amp;nbsp; properties:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; author:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; type: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; title:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; type: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; additionalProperties: false&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;spacing=10;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uLeD5cmNFWT7-957sbNK-2" value="{&lt;div&gt;&amp;nbsp; &quot;author&quot;: &quot;Jose Haro Peralta&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;title&quot;: &quot;Microservice APIs&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uLeD5cmNFWT7-957sbNK-3" value="{&lt;div&gt;&amp;nbsp; &quot;author&quot;: &quot;Jose Haro Peralta&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;title&quot;: &quot;Microservice APIs&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;rating&quot;: 1000&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;spacing=10;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uLeD5cmNFWT7-957sbNK-4" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="306" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uLeD5cmNFWT7-957sbNK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="uLeD5cmNFWT7-957sbNK-1" target="uLeD5cmNFWT7-957sbNK-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="265" as="sourcePoint" />
+            <mxPoint x="540" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uLeD5cmNFWT7-957sbNK-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="1">
+          <mxGeometry x="500" y="235" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uLeD5cmNFWT7-957sbNK-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="uLeD5cmNFWT7-957sbNK-1" target="uLeD5cmNFWT7-957sbNK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="265" as="sourcePoint" />
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uLeD5cmNFWT7-957sbNK-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/16x16/actions/gg_ignored.png" vertex="1" parent="1">
+          <mxGeometry x="490" y="306" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
