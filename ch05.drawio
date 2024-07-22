@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T10:45:16.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6bWk7S09ZRRc8hrAspDx" version="24.7.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-07-22T10:45:31.690Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1XXWbGORs-vYdhEvzUV-" version="24.7.2" type="github" pages="14">
   <diagram name="5.1" id="tPfWv-KvZIML5b-OxrrU">
     <mxGraphModel dx="1995" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -877,13 +877,13 @@
         <mxCell id="5IV_t9J9qWX0joZSr37Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5IV_t9J9qWX0joZSr37Q-2" target="5IV_t9J9qWX0joZSr37Q-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5IV_t9J9qWX0joZSr37Q-2" value="Browse product catalog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5IV_t9J9qWX0joZSr37Q-2" value="Browse product catalog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5IV_t9J9qWX0joZSr37Q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5IV_t9J9qWX0joZSr37Q-4" target="5IV_t9J9qWX0joZSr37Q-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5IV_t9J9qWX0joZSr37Q-4" value="Check product&amp;nbsp;&lt;div&gt;details&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5IV_t9J9qWX0joZSr37Q-4" value="Check product&amp;nbsp;&lt;div&gt;details&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="380" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5IV_t9J9qWX0joZSr37Q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5IV_t9J9qWX0joZSr37Q-6" target="5IV_t9J9qWX0joZSr37Q-16">
@@ -916,10 +916,10 @@
             <mxPoint x="695" y="209.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5IV_t9J9qWX0joZSr37Q-14" value="GET /catalog" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="5IV_t9J9qWX0joZSr37Q-14" value="GET /catalog" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="290" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5IV_t9J9qWX0joZSr37Q-15" value="GET /products/51" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="5IV_t9J9qWX0joZSr37Q-15" value="GET /products/51" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="383.75" y="290" width="112.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5IV_t9J9qWX0joZSr37Q-16" value="POST /carts&lt;div&gt;{...}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
