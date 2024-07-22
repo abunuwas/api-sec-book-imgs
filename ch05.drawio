@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T06:39:26.441Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uUsIjBC-yWEBU_OyQLZa" version="24.7.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-07-22T06:48:46.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="eGNWYwCWD9cGwh1h_IAH" version="24.7.2" type="github" pages="12">
   <diagram name="5.1" id="tPfWv-KvZIML5b-OxrrU">
     <mxGraphModel dx="1995" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -766,10 +766,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sH2jsm0S0kx5qRFRQcBr" name="5.12">
-    <mxGraphModel dx="1259" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="484" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RFc4uWAHHu9PZCmMOkP0-1" value="{&lt;div&gt;&amp;nbsp; &quot;currency&quot;: &quot;USD&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;amount&quot;: 100&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="228" y="270" width="152" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RFc4uWAHHu9PZCmMOkP0-2" value="{&lt;div&gt;&amp;nbsp; &quot;id&quot;: &quot;ed8a948c-705b-4fd6-b832-a97881367833&quot;,&lt;br&gt;&lt;div&gt;&amp;nbsp; &quot;currency&quot;: &quot;USD&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;amount&quot;: 100,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;status&quot;: &quot;pending&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="228" y="380" width="292" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
