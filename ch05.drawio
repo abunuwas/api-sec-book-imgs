@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T05:30:06.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BB0Wt4dYIOqJ-qOW0yGb" version="24.7.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-22T05:37:11.895Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GTSsJhmA-kS0hzk3NxUM" version="24.7.2" type="github" pages="8">
   <diagram name="5.1" id="tPfWv-KvZIML5b-OxrrU">
     <mxGraphModel dx="1995" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -514,6 +514,41 @@
         </mxCell>
         <mxCell id="yyRbao3-5G8JClPw6ivF-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/clanbomber.png" vertex="1" parent="1">
           <mxGeometry x="548.5" y="360" width="23" height="23" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wQfQboHpQaVb-JoXSUx5" name="5.8">
+    <mxGraphModel dx="1325" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1I0Tu5yXjsczjostKwEk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1I0Tu5yXjsczjostKwEk-1" target="1I0Tu5yXjsczjostKwEk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1I0Tu5yXjsczjostKwEk-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1I0Tu5yXjsczjostKwEk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="1I0Tu5yXjsczjostKwEk-3" target="1I0Tu5yXjsczjostKwEk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1I0Tu5yXjsczjostKwEk-3" value="E-commerce API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1I0Tu5yXjsczjostKwEk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1I0Tu5yXjsczjostKwEk-4" target="1I0Tu5yXjsczjostKwEk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1I0Tu5yXjsczjostKwEk-4" value="GET /products?filter=&#39; OR 1=1;--" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="220" y="275" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1I0Tu5yXjsczjostKwEk-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="770" y="305" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1I0Tu5yXjsczjostKwEk-6" value="SELECT * from products where filter = &#39;&#39; OR 1=1;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="410" y="355" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1I0Tu5yXjsczjostKwEk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.593;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="1I0Tu5yXjsczjostKwEk-6" target="1I0Tu5yXjsczjostKwEk-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
