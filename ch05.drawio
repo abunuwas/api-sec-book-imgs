@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T06:07:19.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bnVrXUgrO-GpG6rmhgtL" version="24.7.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-07-22T06:23:48.722Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="URfGnnkI0eE2cGcZAmVC" version="24.7.2" type="github" pages="10">
   <diagram name="5.1" id="tPfWv-KvZIML5b-OxrrU">
     <mxGraphModel dx="1995" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -659,6 +659,32 @@
               <mxPoint x="210" y="399" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hnoxYFAMcz7mVBudnUFq" name="5.10">
+    <mxGraphModel dx="968" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oyhignif6Sy9Ee5-El3g-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyhignif6Sy9Ee5-El3g-1" target="oyhignif6Sy9Ee5-El3g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyhignif6Sy9Ee5-El3g-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oyhignif6Sy9Ee5-El3g-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyhignif6Sy9Ee5-El3g-2" target="oyhignif6Sy9Ee5-El3g-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyhignif6Sy9Ee5-El3g-2" value="POST /books&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;title&quot;: &quot;Microservice APIs&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;author&quot;: &quot;Jose Haro Peralta&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;format&quot;: &quot;ebook&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;pages&quot;: 400&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oyhignif6Sy9Ee5-El3g-4" value="Book catalog API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oyhignif6Sy9Ee5-El3g-6" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="218" y="317" width="109" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
