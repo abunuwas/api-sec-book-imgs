@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T05:11:41.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-BsctOaIYGHTIfatiGoJ" version="24.7.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-22T05:28:56.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="UmUAKMSWEkbA05cVZ6TH" version="24.7.2" type="github" pages="7">
   <diagram name="5.1" id="tPfWv-KvZIML5b-OxrrU">
     <mxGraphModel dx="1995" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -446,6 +446,74 @@
         </mxCell>
         <mxCell id="J0BKaYpoXQh8Y9AU9R57-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="J0BKaYpoXQh8Y9AU9R57-9" target="J0BKaYpoXQh8Y9AU9R57-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gCw6n2J8xPgXVs8Amhre" name="5.7">
+    <mxGraphModel dx="839" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yyRbao3-5G8JClPw6ivF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yyRbao3-5G8JClPw6ivF-1" target="yyRbao3-5G8JClPw6ivF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yyRbao3-5G8JClPw6ivF-1" target="yyRbao3-5G8JClPw6ivF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-2" value="Book review API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yyRbao3-5G8JClPw6ivF-3" target="yyRbao3-5G8JClPw6ivF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-3" value="POST /books/1/review&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;rating&quot;: 0,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;review&quot;: &quot;Very large payload...&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yyRbao3-5G8JClPw6ivF-5" target="yyRbao3-5G8JClPw6ivF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-5" value="POST /books/1/review&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;rating&quot;: 0,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;review&quot;: &quot;Very large payload...&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yyRbao3-5G8JClPw6ivF-6" target="yyRbao3-5G8JClPw6ivF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-6" value="POST /books/1/review&lt;div&gt;{...&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.565;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yyRbao3-5G8JClPw6ivF-1" target="yyRbao3-5G8JClPw6ivF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-12" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="700" y="245" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="284.67" as="sourcePoint" />
+            <mxPoint x="680" y="284.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yyRbao3-5G8JClPw6ivF-17" target="yyRbao3-5G8JClPw6ivF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-17" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="130" y="470" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yyRbao3-5G8JClPw6ivF-18" target="yyRbao3-5G8JClPw6ivF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-18" value="GET /books/1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="285" y="465" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yyRbao3-5G8JClPw6ivF-19" target="yyRbao3-5G8JClPw6ivF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyRbao3-5G8JClPw6ivF-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/clanbomber.png" vertex="1" parent="1">
+          <mxGeometry x="548.5" y="360" width="23" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
