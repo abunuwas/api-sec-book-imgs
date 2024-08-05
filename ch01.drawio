@@ -416,7 +416,7 @@
         <mxCell id="2EoOQlS8NBwgdMuPELHg-57" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;direction=south;rotation=-154;" vertex="1" parent="1">
           <mxGeometry x="702.75" y="512" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="2EoOQlS8NBwgdMuPELHg-58" value="1) Secure" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="2EoOQlS8NBwgdMuPELHg-58" value="3) Secure APIs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="363.13" y="430" width="105.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2EoOQlS8NBwgdMuPELHg-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
