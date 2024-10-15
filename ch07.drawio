@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="FUmnBTIEJxNNoAZ12JkV">
-    <mxGraphModel>
+    <mxGraphModel dx="686" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Sp_cZg9OWAqsCFahutBe-1" target="Sp_cZg9OWAqsCFahutBe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="100" y="105" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Sp_cZg9OWAqsCFahutBe-3" target="Sp_cZg9OWAqsCFahutBe-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="163" />
+              <mxPoint x="405" y="163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-3" value="Identity server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-4" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-6" value="POST /login&lt;div&gt;{&quot;username&quot;: ..., &quot;password&quot;: ...}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-7" value="access_token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.485;entryY=0.835;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Sp_cZg9OWAqsCFahutBe-7" target="Sp_cZg9OWAqsCFahutBe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Sp_cZg9OWAqsCFahutBe-1" target="Sp_cZg9OWAqsCFahutBe-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-12" value="GET /payments&lt;div&gt;-H &#39;Authorization: Bearer access_token&#39;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="250" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
