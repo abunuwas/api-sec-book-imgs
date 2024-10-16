@@ -911,17 +911,77 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UVXBngh96cWahc9oNX7A-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="238" width="50" height="30" as="geometry" />
+        <mxCell id="EznFvK9a65q9EKOpW3dY-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EznFvK9a65q9EKOpW3dY-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="200" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EznFvK9a65q9EKOpW3dY-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EznFvK9a65q9EKOpW3dY-2" value="Server" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="210" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EznFvK9a65q9EKOpW3dY-3" value="Certificate Authority (CA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EznFvK9a65q9EKOpW3dY-5" value="Client requests identification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="231" y="200" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EznFvK9a65q9EKOpW3dY-9" value="Server sends certificate and public key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="231" y="255" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EznFvK9a65q9EKOpW3dY-10" value="Client sends encrypted session key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="231" y="310" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EznFvK9a65q9EKOpW3dY-11" value="Acknowledgement with sessionkey" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="231" y="370" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EznFvK9a65q9EKOpW3dY-12" value="Data is now encrypted with session key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="231" y="430" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EznFvK9a65q9EKOpW3dY-13" value="Client checks if certificate can be trusted" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="a-Z6Po599UsuzmqwW5Wm" name="7.13">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WNz9uUiuI0_V1iqWQXtD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="WNz9uUiuI0_V1iqWQXtD-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="200" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="WNz9uUiuI0_V1iqWQXtD-3" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNz9uUiuI0_V1iqWQXtD-4" value="Server" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="210" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WNz9uUiuI0_V1iqWQXtD-5" value="Certificate Authority (CA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WNz9uUiuI0_V1iqWQXtD-6" value="ClientHello" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="231" y="200" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNz9uUiuI0_V1iqWQXtD-7" value="ServerHello&lt;div&gt;Server Certificate&lt;/div&gt;&lt;div&gt;ServerKeyExchange&lt;/div&gt;&lt;div&gt;CertificateRequest&lt;/div&gt;&lt;div&gt;ServerHelloDone&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="231" y="255" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="WNz9uUiuI0_V1iqWQXtD-8" value="Client Certificate&lt;div&gt;ClientKeyExchange&lt;/div&gt;&lt;div&gt;CertificateVerify&lt;/div&gt;&lt;div&gt;Finished&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="231" y="360" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WNz9uUiuI0_V1iqWQXtD-9" value="Application data can no be exchanged securely" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="231" y="450" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WNz9uUiuI0_V1iqWQXtD-11" value="Client checks if certificate can be trusted" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
