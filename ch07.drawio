@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="7.1" id="FUmnBTIEJxNNoAZ12JkV">
-    <mxGraphModel dx="787" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,14 +116,20 @@
         <mxCell id="UEDh5MbUt5grrKL0CM0J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UEDh5MbUt5grrKL0CM0J-1" target="UEDh5MbUt5grrKL0CM0J-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IEJFJNEylgRZtTcP8qcO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UEDh5MbUt5grrKL0CM0J-1" target="UEDh5MbUt5grrKL0CM0J-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UEDh5MbUt5grrKL0CM0J-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEJFJNEylgRZtTcP8qcO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UEDh5MbUt5grrKL0CM0J-2" target="UEDh5MbUt5grrKL0CM0J-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UEDh5MbUt5grrKL0CM0J-2" value="API server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEDh5MbUt5grrKL0CM0J-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
-          <mxGeometry x="346" y="270" width="79" height="79" as="geometry" />
+          <mxGeometry x="346" y="320" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="UEDh5MbUt5grrKL0CM0J-6" value="GET /payments&lt;div&gt;-H &#39;Authorization: Bearer token&#39;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="170" width="215" height="45" as="geometry" />
