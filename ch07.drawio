@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sp_cZg9OWAqsCFahutBe-3" value="Identity server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Sp_cZg9OWAqsCFahutBe-3" value="Identity server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="450" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sp_cZg9OWAqsCFahutBe-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -88,13 +88,13 @@
           <mxGeometry x="470" y="292.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="szMPgjWyprnZdsrYWiSb-4" value="Has access to the API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="630" y="252.5" width="190" height="30" as="geometry" />
+          <mxGeometry x="630" y="252.5" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="szMPgjWyprnZdsrYWiSb-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Belongs to the right role / group" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="630" y="298.5" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="szMPgjWyprnZdsrYWiSb-6" value="&amp;nbsp; &amp;nbsp; Is authorized to access the requested resource" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="630" y="342.5" width="190" height="40" as="geometry" />
+          <mxGeometry x="630" y="342.5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="szMPgjWyprnZdsrYWiSb-8" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="190" width="380" height="30" as="geometry" />
