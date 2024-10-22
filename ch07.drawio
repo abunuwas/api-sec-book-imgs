@@ -1447,6 +1447,18 @@
         <mxCell id="fWnYukgu5G6kT_1AcwkP-25" value="Access token" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.saml_token;" vertex="1" parent="1">
           <mxGeometry x="369" y="890" width="28" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="fWnYukgu5G6kT_1AcwkP-29" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="289" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnYukgu5G6kT_1AcwkP-30" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="630" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnYukgu5G6kT_1AcwkP-31" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="299" y="695" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnYukgu5G6kT_1AcwkP-32" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="304" y="840" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
