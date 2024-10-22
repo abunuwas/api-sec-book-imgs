@@ -1067,6 +1067,9 @@
         <mxCell id="_Vf5NMQdgSVKJzNDJqrn-1" value="Access token + Refresh token" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;spacingLeft=25;" vertex="1" parent="1">
           <mxGeometry x="277.46999999999997" y="300" width="200.75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_Vf5NMQdgSVKJzNDJqrn-4" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="287.45" y="305" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
