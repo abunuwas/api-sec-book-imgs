@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0" pages="15">
   <diagram name="7.1" id="FUmnBTIEJxNNoAZ12JkV">
-    <mxGraphModel dx="762" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
           <mxGeometry x="630" y="342.5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="szMPgjWyprnZdsrYWiSb-8" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="190" width="380" height="30" as="geometry" />
+          <mxGeometry x="450" y="190" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="szMPgjWyprnZdsrYWiSb-16" value="Authentication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="80" y="15" width="510" height="30" as="geometry" />
@@ -105,13 +105,13 @@
         <mxCell id="szMPgjWyprnZdsrYWiSb-18" value="Authorization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="80" y="380" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K15jqfix9BX4F4d0giEk-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
+        <mxCell id="K15jqfix9BX4F4d0giEk-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" parent="1" vertex="1">
           <mxGeometry x="640" y="259.5" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="K15jqfix9BX4F4d0giEk-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
+        <mxCell id="K15jqfix9BX4F4d0giEk-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" parent="1" vertex="1">
           <mxGeometry x="639" y="306.5" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="K15jqfix9BX4F4d0giEk-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
+        <mxCell id="K15jqfix9BX4F4d0giEk-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" parent="1" vertex="1">
           <mxGeometry x="640" y="353.5" width="16" height="16" as="geometry" />
         </mxCell>
       </root>
