@@ -1111,19 +1111,19 @@
         <mxCell id="EznFvK9a65q9EKOpW3dY-3" value="Certificate Authority (CA)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="280" y="105" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EznFvK9a65q9EKOpW3dY-5" value="Client requests identification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="EznFvK9a65q9EKOpW3dY-5" value="Client requests identification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="231" y="200" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EznFvK9a65q9EKOpW3dY-9" value="Server sends certificate and public key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;dashed=1;spacing=10;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="EznFvK9a65q9EKOpW3dY-9" value="Server sends certificate and public key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="231" y="255" width="190" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="EznFvK9a65q9EKOpW3dY-10" value="Client sends encrypted session key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;dashed=1;spacing=10;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="EznFvK9a65q9EKOpW3dY-10" value="Client sends encrypted session key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;spacing=10;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="231" y="310" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EznFvK9a65q9EKOpW3dY-11" value="Acknowledgement with sessionkey" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;dashed=1;spacing=10;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="EznFvK9a65q9EKOpW3dY-11" value="Acknowledgement with sessionkey" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="231" y="370" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EznFvK9a65q9EKOpW3dY-12" value="Data is now encrypted with session key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;dashed=1;spacing=10;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="EznFvK9a65q9EKOpW3dY-12" value="Data is now encrypted with session key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;spacing=10;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="231" y="430" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zYk43p8zIDV0lQIKROg2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="EznFvK9a65q9EKOpW3dY-13" target="EznFvK9a65q9EKOpW3dY-3" edge="1">
