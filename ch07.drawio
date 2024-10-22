@@ -212,7 +212,7 @@
         <mxCell id="f4lj2Ts5teXUGoV8nbbe-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="100.25" width="100" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="UEDh5MbUt5grrKL0CM0J-3" value="Hacker with network&lt;div&gt;packet analyzer&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" parent="1" vertex="1">
+        <mxCell id="UEDh5MbUt5grrKL0CM0J-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" parent="1" vertex="1">
           <mxGeometry x="340.5" y="265.25" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="f4lj2Ts5teXUGoV8nbbe-3" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" parent="1" vertex="1">
