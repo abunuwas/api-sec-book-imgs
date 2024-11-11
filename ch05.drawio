@@ -402,10 +402,56 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gCw6n2J8xPgXVs8Amhre" name="5.7">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3UoQWejwgegLHC68CmrI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="470" y="60" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-2" value="Stage 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="410" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3UoQWejwgegLHC68CmrI-5" target="3UoQWejwgegLHC68CmrI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-5" value="API v1&lt;div&gt;Deprecation: @1806129442&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sunset: Wed, 30 Jun 2027 23:59:59 GMT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="76" y="140" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-6" value="API v2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="141" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3UoQWejwgegLHC68CmrI-8" target="3UoQWejwgegLHC68CmrI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-8" value="Release v2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3UoQWejwgegLHC68CmrI-10" target="3UoQWejwgegLHC68CmrI-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="201" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-10" value="Set deprecation and sunset headers in v1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-12" value="Retire v1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-13" value="Stage 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3UoQWejwgegLHC68CmrI-14" value="API v2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
