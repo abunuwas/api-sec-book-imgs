@@ -726,6 +726,42 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1DYJz0rT13dnT0-tTWpt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="1DYJz0rT13dnT0-tTWpt-8" target="1DYJz0rT13dnT0-tTWpt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1DYJz0rT13dnT0-tTWpt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="1DYJz0rT13dnT0-tTWpt-10" target="1DYJz0rT13dnT0-tTWpt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1DYJz0rT13dnT0-tTWpt-3" value="Book:&lt;div&gt;&amp;nbsp; type: object&lt;/div&gt;&lt;div&gt;&amp;nbsp; properties:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; author:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; type: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; title:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; type: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; additionalProperties: false&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;spacing=10;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1DYJz0rT13dnT0-tTWpt-4" value="{&lt;div&gt;&amp;nbsp; &quot;author&quot;: &quot;Jose Haro Peralta&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;title&quot;: &quot;Microservice APIs&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1DYJz0rT13dnT0-tTWpt-5" value="{&lt;div&gt;&amp;nbsp; &quot;author&quot;: &quot;Jose Haro Peralta&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;title&quot;: &quot;Microservice APIs&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;rating&quot;: 1000&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;spacing=10;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1DYJz0rT13dnT0-tTWpt-6" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="306" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1DYJz0rT13dnT0-tTWpt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="1DYJz0rT13dnT0-tTWpt-3" target="1DYJz0rT13dnT0-tTWpt-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="265" as="sourcePoint" />
+            <mxPoint x="540" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DYJz0rT13dnT0-tTWpt-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="1">
+          <mxGeometry x="500" y="235" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1DYJz0rT13dnT0-tTWpt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="1DYJz0rT13dnT0-tTWpt-3" target="1DYJz0rT13dnT0-tTWpt-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="265" as="sourcePoint" />
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DYJz0rT13dnT0-tTWpt-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/16x16/actions/gg_ignored.png" vertex="1" parent="1">
+          <mxGeometry x="490" y="306" width="10" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
