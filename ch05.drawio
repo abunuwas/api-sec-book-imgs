@@ -358,10 +358,46 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rcj18wIR_2J8Nqn2qdMb" name="5.6">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GK293Ug9q_5S2i0icRPX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="GK293Ug9q_5S2i0icRPX-2" target="GK293Ug9q_5S2i0icRPX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GK293Ug9q_5S2i0icRPX-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GK293Ug9q_5S2i0icRPX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="GK293Ug9q_5S2i0icRPX-4" target="GK293Ug9q_5S2i0icRPX-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GK293Ug9q_5S2i0icRPX-4" value="AI server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GK293Ug9q_5S2i0icRPX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="GK293Ug9q_5S2i0icRPX-6" target="GK293Ug9q_5S2i0icRPX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GK293Ug9q_5S2i0icRPX-6" value="GET /catalog/bad-id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="285" y="315" width="140" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Status code: 500&lt;div&gt;{&quot;error&quot;: &quot;(psycopg2.errors.SyntaxError) syntax error at or near &quot;AND&quot;\nLINE 16...&quot;}&lt;/div&gt;" link="{&#xa;    &quot;error&quot;: &quot;(psycopg2.errors.SyntaxError) syntax error at or near &quot;AND&quot;\nLINE 16...&quot;&#xa;}" id="GK293Ug9q_5S2i0icRPX-7">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;spacing=10;fillColor=#f8cecc;" vertex="1" parent="1">
+            <mxGeometry x="125" y="380" width="460" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GK293Ug9q_5S2i0icRPX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.045;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="GK293Ug9q_5S2i0icRPX-7" target="GK293Ug9q_5S2i0icRPX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="405" />
+              <mxPoint x="80" y="337" />
+              <mxPoint x="108" y="337" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
