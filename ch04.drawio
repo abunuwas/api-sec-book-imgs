@@ -1276,6 +1276,59 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="GXw64d6Ts7b6csADjWJj" name="4.16">
+    <mxGraphModel dx="750" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-1" target="0rK2qTrZIfpwruTuwNNB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-1" value="UserA" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-2" target="0rK2qTrZIfpwruTuwNNB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-2" value="Referral invite" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="240" y="215" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-3" target="0rK2qTrZIfpwruTuwNNB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-3" value="userB@example.com" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="217.5" width="135" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-4" target="0rK2qTrZIfpwruTuwNNB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-4" value="Join platform" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="530" y="215" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-5" target="0rK2qTrZIfpwruTuwNNB-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-5" value="Ride-sharing&amp;nbsp;&lt;div&gt;application&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-6" value="Rewards" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0rK2qTrZIfpwruTuwNNB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.08;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-6" target="0rK2qTrZIfpwruTuwNNB-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="295" />
+              <mxPoint x="90" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="PH4lGRE4OJ0_ZAkv-7uz" name="4.17">
     <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1597,59 +1650,6 @@
         </mxCell>
         <mxCell id="ER2slAivUKAoTkhXpfS6-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" parent="1" vertex="1">
           <mxGeometry x="650" y="225" width="20" height="20" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="GXw64d6Ts7b6csADjWJj" name="4.16">
-    <mxGraphModel dx="750" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-1" target="0rK2qTrZIfpwruTuwNNB-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-1" value="UserA" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="130" y="220" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-2" target="0rK2qTrZIfpwruTuwNNB-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-2" value="Referral invite" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="240" y="215" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-3" target="0rK2qTrZIfpwruTuwNNB-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-3" value="userB@example.com" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="350" y="217.5" width="135" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-4" target="0rK2qTrZIfpwruTuwNNB-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-4" value="Join platform" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="530" y="215" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-5" target="0rK2qTrZIfpwruTuwNNB-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="710" y="295" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-5" value="Ride-sharing&amp;nbsp;&lt;div&gt;application&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="210" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-6" value="Rewards" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="280" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0rK2qTrZIfpwruTuwNNB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.08;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;curved=0;dashed=1;" edge="1" parent="1" source="0rK2qTrZIfpwruTuwNNB-6" target="0rK2qTrZIfpwruTuwNNB-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="90" y="295" />
-              <mxPoint x="90" y="235" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
