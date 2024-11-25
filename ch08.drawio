@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="8.1" id="ffCHaswGIi7hMNkYAQfV">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LZzv59fOSkoasHGqFkXJ-1" value="openapi: 3.1.1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZzv59fOSkoasHGqFkXJ-2" value="info:&lt;div&gt;&amp;nbsp; version: 2.0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZzv59fOSkoasHGqFkXJ-3" value="servers:&lt;div&gt;&amp;nbsp; - qa: dev.example.com&lt;/div&gt;&lt;div&gt;&amp;nbsp; - prod: example.com&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZzv59fOSkoasHGqFkXJ-4" value="paths:&lt;div&gt;&amp;nbsp; /hello:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; get:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; content-type:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; application/json:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LZzv59fOSkoasHGqFkXJ-6" value="components:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LZzv59fOSkoasHGqFkXJ-8" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;schemas:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; Hello:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; type: object&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; properties:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="426" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LZzv59fOSkoasHGqFkXJ-10" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;responses:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; 404NotFound:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; content:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; application/json:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="516" width="130" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
