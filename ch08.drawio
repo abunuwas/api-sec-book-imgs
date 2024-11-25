@@ -25,6 +25,9 @@
         <mxCell id="LZzv59fOSkoasHGqFkXJ-10" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;responses:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; 404NotFound:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; content:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; application/json:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;" vertex="1" parent="1">
           <mxGeometry x="210" y="516" width="130" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="LZzv59fOSkoasHGqFkXJ-11" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;securitySchemes:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; JWTBearer:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; type: http&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; scheme: Bearer&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; bearerFormat: JWT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="606" width="140" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
