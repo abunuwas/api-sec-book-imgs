@@ -23,7 +23,7 @@
           <mxGeometry x="540" y="157" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LZzv59fOSkoasHGqFkXJ-10" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;responses:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; 404NotFound:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; content:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; application/json:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="247" width="130" height="90" as="geometry" />
+          <mxGeometry x="540" y="251" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LZzv59fOSkoasHGqFkXJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="LZzv59fOSkoasHGqFkXJ-11" target="LZzv59fOSkoasHGqFkXJ-31">
           <mxGeometry relative="1" as="geometry">
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LZzv59fOSkoasHGqFkXJ-11" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;securitySchemes:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; JWTBearer:&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; type: http&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; scheme: Bearer&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&amp;nbsp; &amp;nbsp; bearerFormat: JWT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="337" width="140" height="90" as="geometry" />
+          <mxGeometry x="540" y="344" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LZzv59fOSkoasHGqFkXJ-12" value="components:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="130" width="90" height="30" as="geometry" />
