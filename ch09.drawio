@@ -95,17 +95,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="R2FvtQdy7PtbtA2VOS6A-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="vqLT8_SoXhe7MJbr6x8X-1" target="vqLT8_SoXhe7MJbr6x8X-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2FvtQdy7PtbtA2VOS6A-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="vqLT8_SoXhe7MJbr6x8X-1" target="R2FvtQdy7PtbtA2VOS6A-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2FvtQdy7PtbtA2VOS6A-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="vqLT8_SoXhe7MJbr6x8X-1" target="vqLT8_SoXhe7MJbr6x8X-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R2FvtQdy7PtbtA2VOS6A-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="vqLT8_SoXhe7MJbr6x8X-1" target="vqLT8_SoXhe7MJbr6x8X-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="210" />
+              <mxPoint x="350" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vqLT8_SoXhe7MJbr6x8X-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="90" y="230" width="50" height="30" as="geometry" />
+          <mxGeometry x="170" y="200" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vqLT8_SoXhe7MJbr6x8X-2" value="Payments API&lt;div&gt;(REST)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="vqLT8_SoXhe7MJbr6x8X-2" value="Payments API&lt;div&gt;(REST)&lt;/div&gt;&lt;div&gt;[Server 1]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vqLT8_SoXhe7MJbr6x8X-3" value="Orders API&lt;div&gt;(REST)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="180" width="130" height="60" as="geometry" />
+        <mxCell id="vqLT8_SoXhe7MJbr6x8X-3" value="Orders API&lt;div&gt;(GraphQL)&lt;/div&gt;&lt;div&gt;[Server 2]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vqLT8_SoXhe7MJbr6x8X-4" value="Inventory API&lt;div&gt;(AsyncAPI)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="270" width="130" height="60" as="geometry" />
+        <mxCell id="vqLT8_SoXhe7MJbr6x8X-4" value="Inventory API&lt;div&gt;(AsyncAPI)&lt;/div&gt;&lt;div&gt;[Serverless]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R2FvtQdy7PtbtA2VOS6A-1" value="Products API&lt;div&gt;(REST)&lt;/div&gt;&lt;div&gt;[Serverless]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
