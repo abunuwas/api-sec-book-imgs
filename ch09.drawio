@@ -553,7 +553,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ksIyjWpNSBugwV_jyDsF-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ksIyjWpNSBugwV_jyDsF-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="162" y="266" width="265" height="300" as="geometry" />
         </mxCell>
         <mxCell id="ksIyjWpNSBugwV_jyDsF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.42;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ksIyjWpNSBugwV_jyDsF-3" target="ksIyjWpNSBugwV_jyDsF-19">
