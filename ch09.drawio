@@ -423,7 +423,7 @@
         <mxCell id="EKtKAbXPReljt6ruIOC1-5" value="GET /payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="170" y="215" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EKtKAbXPReljt6ruIOC1-6" value="GET /unsecure/all-payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="EKtKAbXPReljt6ruIOC1-6" value="GET /undocumented/all-payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="170" y="255" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WG7agBLW9ykSLp7Uhjg9-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
