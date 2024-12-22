@@ -99,7 +99,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R2FvtQdy7PtbtA2VOS6A-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="vqLT8_SoXhe7MJbr6x8X-1" target="R2FvtQdy7PtbtA2VOS6A-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="210" />
+              <mxPoint x="255" y="150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="R2FvtQdy7PtbtA2VOS6A-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="vqLT8_SoXhe7MJbr6x8X-1" target="vqLT8_SoXhe7MJbr6x8X-2">
           <mxGeometry relative="1" as="geometry">
@@ -126,7 +131,7 @@
           <mxGeometry x="480" y="170" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vqLT8_SoXhe7MJbr6x8X-4" value="Inventory API&lt;div&gt;(AsyncAPI)&lt;/div&gt;&lt;div&gt;[Serverless]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="320" y="220" width="130" height="60" as="geometry" />
+          <mxGeometry x="320" y="230" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R2FvtQdy7PtbtA2VOS6A-1" value="Products API&lt;div&gt;(REST)&lt;/div&gt;&lt;div&gt;[Serverless]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="290" y="120" width="120" height="60" as="geometry" />
