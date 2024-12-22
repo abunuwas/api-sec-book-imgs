@@ -515,7 +515,7 @@
         <mxCell id="ksIyjWpNSBugwV_jyDsF-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="50" y="175" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ksIyjWpNSBugwV_jyDsF-3" value="API gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ksIyjWpNSBugwV_jyDsF-3" value="API gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="213" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ksIyjWpNSBugwV_jyDsF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="ksIyjWpNSBugwV_jyDsF-4" target="ksIyjWpNSBugwV_jyDsF-11">
