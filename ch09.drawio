@@ -502,10 +502,31 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Jl8oLuZNE_PTJNrbgwlj" name="9.7">
-    <mxGraphModel dx="1580" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ksIyjWpNSBugwV_jyDsF-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ksIyjWpNSBugwV_jyDsF-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ksIyjWpNSBugwV_jyDsF-3" value="API gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ksIyjWpNSBugwV_jyDsF-4" value="Request is authenticated?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="338" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ksIyjWpNSBugwV_jyDsF-5" value="User belongs to the right group or role?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="338" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ksIyjWpNSBugwV_jyDsF-6" value="User has access to the resource?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="338" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ksIyjWpNSBugwV_jyDsF-9" value="Authentication and authorization process" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="470" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
