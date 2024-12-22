@@ -601,7 +601,7 @@
         <mxCell id="EjJagi3SnrhZfj6wJ-TB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="EjJagi3SnrhZfj6wJ-TB-7" target="EjJagi3SnrhZfj6wJ-TB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EjJagi3SnrhZfj6wJ-TB-11" value="Apply secure configuration headers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="EjJagi3SnrhZfj6wJ-TB-11" value="Apply secure&amp;nbsp;&lt;div&gt;headers configuration&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="280" width="125" height="40" as="geometry" />
         </mxCell>
       </root>
