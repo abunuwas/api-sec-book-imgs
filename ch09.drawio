@@ -986,7 +986,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QI0i8MyVTnd5fKxhnlq9-1" value="API server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QI0i8MyVTnd5fKxhnlq9-1" value="API server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="365" y="239" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QI0i8MyVTnd5fKxhnlq9-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
