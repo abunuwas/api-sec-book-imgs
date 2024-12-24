@@ -608,7 +608,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k-f9a7yqm027E8nLMrIZ" name="9.9">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="824" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -662,6 +662,24 @@
         </mxCell>
         <mxCell id="_gQsR1YdnKVld2TWIGV0-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/16x16/actions/gg_ignored.png" vertex="1" parent="1">
           <mxGeometry x="330" y="275" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="zFQOP6DYrc-NaQGCegzi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zFQOP6DYrc-NaQGCegzi-1" target="zFQOP6DYrc-NaQGCegzi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zFQOP6DYrc-NaQGCegzi-1" value="Log collection" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_management" vertex="1" parent="1">
+          <mxGeometry x="420" y="420" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zFQOP6DYrc-NaQGCegzi-2" value="Observability" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_search" vertex="1" parent="1">
+          <mxGeometry x="520" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zFQOP6DYrc-NaQGCegzi-3" value="Analytics" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.quicksight;fillColor=#00B7F4;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="423" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zFQOP6DYrc-NaQGCegzi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="SLu3HJQPxZQjctoPB8vk-1" target="zFQOP6DYrc-NaQGCegzi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zFQOP6DYrc-NaQGCegzi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zFQOP6DYrc-NaQGCegzi-2" target="zFQOP6DYrc-NaQGCegzi-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
