@@ -952,7 +952,7 @@
         <mxCell id="nXp9CNERdM3ovzSVK75P-9" value="POST /new-payment-method" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="435" y="525" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nXp9CNERdM3ovzSVK75P-10" value="Implemennted" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="nXp9CNERdM3ovzSVK75P-10" value="Implemented" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="425" y="405" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
