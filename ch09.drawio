@@ -949,17 +949,11 @@
         <mxCell id="nXp9CNERdM3ovzSVK75P-8" value="GET /payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d79b00;dashed=1;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="435" y="485" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nXp9CNERdM3ovzSVK75P-9" value="GET /undocumented/all-payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="nXp9CNERdM3ovzSVK75P-9" value="POST /new-payment-method" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="435" y="525" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nXp9CNERdM3ovzSVK75P-10" value="Implemennted" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="425" y="405" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nXp9CNERdM3ovzSVK75P-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nXp9CNERdM3ovzSVK75P-3" target="nXp9CNERdM3ovzSVK75P-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nXp9CNERdM3ovzSVK75P-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nXp9CNERdM3ovzSVK75P-4" target="nXp9CNERdM3ovzSVK75P-8">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
