@@ -932,10 +932,10 @@
           <mxGeometry x="500" y="278.5" width="40.78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nXp9CNERdM3ovzSVK75P-3" value="POST /payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d79b00;dashed=1;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="500" y="328.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="500" y="333.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nXp9CNERdM3ovzSVK75P-4" value="GET /payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d79b00;dashed=1;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="500" y="368.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="500" y="373.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nXp9CNERdM3ovzSVK75P-5" value="Documented and enabled through API gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="544" y="264.5" width="119.78" height="55" as="geometry" />
