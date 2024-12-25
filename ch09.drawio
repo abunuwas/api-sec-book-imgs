@@ -1231,25 +1231,25 @@
             <mxPoint x="200" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-17" value="stream 1: GET index.html" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=default;dashed=1;" parent="1" vertex="1">
+        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-17" value="stream 1: GET index.html" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="254.55" y="150" width="150.9" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-18" value="stream 1: Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=355;strokeColor=default;dashed=1;" parent="1" vertex="1">
+        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-18" value="stream 1: Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=355;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="250" y="198.24" width="150" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-20" value="stream 1: GET styles.css" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=default;dashed=1;" parent="1" vertex="1">
+        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-20" value="stream 1: GET styles.css" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="255" y="248" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07QzE9PvPuY4M6ptl4Wr-1" value="stream 2: GET script.js" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="07QzE9PvPuY4M6ptl4Wr-1" value="stream 2: GET script.js" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="252.49999999999997" y="288" width="145" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07QzE9PvPuY4M6ptl4Wr-2" value="stream 3: GET image.jpg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="07QzE9PvPuY4M6ptl4Wr-2" value="stream 3: GET image.jpg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="250" y="328" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07QzE9PvPuY4M6ptl4Wr-3" value="stream 1: Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=356;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="07QzE9PvPuY4M6ptl4Wr-3" value="stream 1: Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=356;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="255" y="378" width="140" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="07QzE9PvPuY4M6ptl4Wr-4" value="stream 2: Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=356;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="07QzE9PvPuY4M6ptl4Wr-4" value="stream 2: Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=356;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="417.47" width="145" height="18" as="geometry" />
         </mxCell>
         <mxCell id="07QzE9PvPuY4M6ptl4Wr-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1258,7 +1258,7 @@
             <mxPoint x="490" y="508" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="07QzE9PvPuY4M6ptl4Wr-7" value="stream 3: Reset" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="07QzE9PvPuY4M6ptl4Wr-7" value="stream 3: Reset" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="250" y="468" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
