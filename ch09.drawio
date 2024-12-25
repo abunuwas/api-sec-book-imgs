@@ -1265,12 +1265,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n_ODV7iWiPrEKQeypnJH" name="9.16">
-    <mxGraphModel dx="527" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O1i2mvdeufCZvH-wPB0V-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="183" width="550" height="90" as="geometry" />
+        <mxCell id="O1i2mvdeufCZvH-wPB0V-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="110" y="183" width="550" height="107" as="geometry" />
         </mxCell>
         <mxCell id="1IxbcuI6bgn1Bx_QnyqI-1" value="Port 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="60" height="43" as="geometry" />
@@ -1278,28 +1278,25 @@
         <mxCell id="1IxbcuI6bgn1Bx_QnyqI-4" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="170" width="60" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-5" value="Port 22&lt;div&gt;(SSH)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-5" value="Port 22&lt;div&gt;(SSH)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="60" height="43" as="geometry" />
         </mxCell>
         <mxCell id="1IxbcuI6bgn1Bx_QnyqI-7" value="Port 443&lt;div&gt;(TLS/SSL)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="170" width="70" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-9" value="Port 3306&lt;div&gt;(MySQL)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-9" value="Port 3306&lt;div&gt;(MySQL)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="410" y="170" width="60" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-10" value="Port 5432&lt;div&gt;(PostgreSQL)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-10" value="Port 5432&lt;div&gt;(PostgreSQL)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="170" width="90" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-11" value="Port 8080&lt;div&gt;(Jenkins)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-11" value="Port 8080&lt;div&gt;(Jenkins)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="580" y="170" width="70" height="43" as="geometry" />
         </mxCell>
         <mxCell id="1IxbcuI6bgn1Bx_QnyqI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="1IxbcuI6bgn1Bx_QnyqI-21" target="1IxbcuI6bgn1Bx_QnyqI-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1IxbcuI6bgn1Bx_QnyqI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="1IxbcuI6bgn1Bx_QnyqI-22" target="1IxbcuI6bgn1Bx_QnyqI-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="1IxbcuI6bgn1Bx_QnyqI-32" target="1IxbcuI6bgn1Bx_QnyqI-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1IxbcuI6bgn1Bx_QnyqI-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
@@ -1336,14 +1333,17 @@
         <mxCell id="1IxbcuI6bgn1Bx_QnyqI-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/16x16/actions/gg_ignored.png" vertex="1" parent="1">
           <mxGeometry x="520" y="114" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="1IxbcuI6bgn1Bx_QnyqI-12" target="1IxbcuI6bgn1Bx_QnyqI-32">
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1IxbcuI6bgn1Bx_QnyqI-12" target="1IxbcuI6bgn1Bx_QnyqI-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="40" as="sourcePoint" />
-            <mxPoint x="615" y="170" as="targetPoint" />
+            <mxPoint x="615" y="92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/16x16/actions/gg_ignored.png" vertex="1" parent="1">
-          <mxGeometry x="607" y="92" width="16" height="16" as="geometry" />
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-34" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-35" value="Web server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
