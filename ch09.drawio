@@ -1240,7 +1240,7 @@
         <mxCell id="FZTR3jGlc-vVHMcPP3Ja-17" value="stream 1: GET index.html" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="254.55" y="150" width="150.9" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-18" value="stream 1: RESPONSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=355;strokeColor=default;dashed=1;" parent="1" vertex="1">
+        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-18" value="stream 1: Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=355;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="198.24" width="150" height="18" as="geometry" />
         </mxCell>
         <mxCell id="FZTR3jGlc-vVHMcPP3Ja-20" value="stream 1: GET styles.css" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=default;dashed=1;" parent="1" vertex="1">
@@ -1252,13 +1252,13 @@
         <mxCell id="07QzE9PvPuY4M6ptl4Wr-2" value="stream 3: GET image.jpg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="340" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07QzE9PvPuY4M6ptl4Wr-3" value="stream 1: RESPONSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=356;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="07QzE9PvPuY4M6ptl4Wr-3" value="stream 1: Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=356;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="390" width="140" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="07QzE9PvPuY4M6ptl4Wr-4" value="stream 2: RESPONSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=356;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="07QzE9PvPuY4M6ptl4Wr-4" value="stream 2: Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=356;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="429.47" width="145" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="07QzE9PvPuY4M6ptl4Wr-5" value="stream 3: RESPONSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=356;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="07QzE9PvPuY4M6ptl4Wr-5" value="stream 3: Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=356;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="469.69" width="140" height="18" as="geometry" />
         </mxCell>
       </root>
