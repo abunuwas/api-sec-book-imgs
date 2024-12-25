@@ -1489,7 +1489,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c2wlFmS7HgPNrwVBOH3E" name="9.19">
-    <mxGraphModel dx="542" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="527" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1508,25 +1508,18 @@
         <mxCell id="NETN5yDv8vXuZGK7LKv3-6" value="API server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="425" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VHJQbQmuGnZVaMRCBhwd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NETN5yDv8vXuZGK7LKv3-7" target="VHJQbQmuGnZVaMRCBhwd-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="685" y="310" />
-              <mxPoint x="685" y="310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NETN5yDv8vXuZGK7LKv3-7" value="select * from payments where status = &#39;&#39; or 1=1--" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;spacing=10;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="410" y="340" width="350" height="40" as="geometry" />
+          <mxGeometry x="410" y="340" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VHJQbQmuGnZVaMRCBhwd-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="740" y="230" width="40" height="60" as="geometry" />
+          <mxGeometry x="660" y="230" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VHJQbQmuGnZVaMRCBhwd-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/clanbomber.png" vertex="1" parent="1">
-          <mxGeometry x="670" y="245" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VHJQbQmuGnZVaMRCBhwd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VHJQbQmuGnZVaMRCBhwd-4" target="VHJQbQmuGnZVaMRCBhwd-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VHJQbQmuGnZVaMRCBhwd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="NETN5yDv8vXuZGK7LKv3-7" target="VHJQbQmuGnZVaMRCBhwd-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
