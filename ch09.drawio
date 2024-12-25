@@ -1406,28 +1406,28 @@
         <mxCell id="T0N196FB1wK4PXJm4UbP-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="150" width="132" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T0N196FB1wK4PXJm4UbP-12" value="TCP packet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="T0N196FB1wK4PXJm4UbP-12" value="TCP packet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="270" y="150" width="132" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T0N196FB1wK4PXJm4UbP-13" value="Source IP: 2.3.4.5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="T0N196FB1wK4PXJm4UbP-13" value="Source IP: 2.3.4.5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="270" y="170" width="132" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T0N196FB1wK4PXJm4UbP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="132" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T0N196FB1wK4PXJm4UbP-16" value="TCP packet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="T0N196FB1wK4PXJm4UbP-16" value="TCP packet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="132" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T0N196FB1wK4PXJm4UbP-17" value="Source IP: 3.4.5.6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="T0N196FB1wK4PXJm4UbP-17" value="Source IP: 3.4.5.6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="270" y="230" width="132" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T0N196FB1wK4PXJm4UbP-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="260" width="132" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T0N196FB1wK4PXJm4UbP-19" value="TCP packet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="T0N196FB1wK4PXJm4UbP-19" value="TCP packet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="270" y="260" width="132" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T0N196FB1wK4PXJm4UbP-20" value="Source IP: 4.5.6.7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="T0N196FB1wK4PXJm4UbP-20" value="Source IP: 4.5.6.7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="132" height="20" as="geometry" />
         </mxCell>
       </root>
