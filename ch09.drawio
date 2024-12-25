@@ -1345,6 +1345,18 @@
         <mxCell id="1IxbcuI6bgn1Bx_QnyqI-35" value="Web server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-37" value="Protected" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="108" width="60" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-38" value="Protected" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="127" width="60" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-39" value="Protected" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="111" width="60" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="1IxbcuI6bgn1Bx_QnyqI-40" value="Unprotected" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="133" width="80" height="22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
