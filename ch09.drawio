@@ -1502,7 +1502,7 @@
         <mxCell id="NETN5yDv8vXuZGK7LKv3-3" value="GET /payments?filter=&#39; or 1=1--" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="160" y="234" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VHJQbQmuGnZVaMRCBhwd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NETN5yDv8vXuZGK7LKv3-6" target="NETN5yDv8vXuZGK7LKv3-7">
+        <mxCell id="VHJQbQmuGnZVaMRCBhwd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="NETN5yDv8vXuZGK7LKv3-6" target="NETN5yDv8vXuZGK7LKv3-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NETN5yDv8vXuZGK7LKv3-6" value="API server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
