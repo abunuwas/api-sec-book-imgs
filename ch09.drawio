@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="18">
   <diagram name="9.1" id="iVJIESvXYlGfIRGYjgWM">
     <mxGraphModel dx="862" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1372,7 +1372,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VxIkNuw63Lml8x8Wv0tq" name="9.17">
-    <mxGraphModel dx="499" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="824" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1429,6 +1429,35 @@
         </mxCell>
         <mxCell id="T0N196FB1wK4PXJm4UbP-20" value="Source IP: 4.5.6.7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="132" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-1xvKq8tFiN6uW48GZQQ" name="9.18">
+    <mxGraphModel dx="948" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="13T1adz_v3-MMXTko3fx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AHxo4eVY3gWkmdjVieeu-1" target="13T1adz_v3-MMXTko3fx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHxo4eVY3gWkmdjVieeu-1" value="WAF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="90" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="13T1adz_v3-MMXTko3fx-1" value="API server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13T1adz_v3-MMXTko3fx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="13T1adz_v3-MMXTko3fx-2" target="AHxo4eVY3gWkmdjVieeu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13T1adz_v3-MMXTko3fx-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13T1adz_v3-MMXTko3fx-4" value="GET /payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="199" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13T1adz_v3-MMXTko3fx-6" value="GET /payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="199" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
