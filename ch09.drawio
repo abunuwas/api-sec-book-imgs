@@ -1237,11 +1237,11 @@
             <mxPoint x="200" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-17" value="GET index.html" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=5;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-17" value="GET index.html" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=6;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="289.62" y="140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-18" value="RESPONSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-5;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="188" width="110" height="30" as="geometry" />
+        <mxCell id="FZTR3jGlc-vVHMcPP3Ja-18" value="RESPONSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=355;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="188" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
