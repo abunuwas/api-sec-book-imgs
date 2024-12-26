@@ -1489,7 +1489,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c2wlFmS7HgPNrwVBOH3E" name="9.19">
-    <mxGraphModel dx="542" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1497,29 +1497,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NETN5yDv8vXuZGK7LKv3-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" parent="1" vertex="1">
-          <mxGeometry x="110" y="240" width="60" height="60" as="geometry" />
+          <mxGeometry x="30" y="180" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NETN5yDv8vXuZGK7LKv3-3" value="GET /payments?filter=&#39; or 1=1--" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="200" y="235" width="200" height="30" as="geometry" />
+          <mxGeometry x="120" y="175" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VHJQbQmuGnZVaMRCBhwd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" parent="1" source="NETN5yDv8vXuZGK7LKv3-6" target="NETN5yDv8vXuZGK7LKv3-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NETN5yDv8vXuZGK7LKv3-6" value="API server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="425" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NETN5yDv8vXuZGK7LKv3-7" value="select * from payments where status = &#39;&#39; or 1=1-- and user_id = %user_id;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;spacing=10;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="330" y="340" width="410" height="40" as="geometry" />
+        <mxCell id="NETN5yDv8vXuZGK7LKv3-7" value="select * from payments where status = &#39;&#39; or 1=1 -- and user_id = %user_id;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;spacing=10;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VHJQbQmuGnZVaMRCBhwd-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="660" y="230" width="40" height="60" as="geometry" />
+          <mxGeometry x="580" y="170" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHJQbQmuGnZVaMRCBhwd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" source="NETN5yDv8vXuZGK7LKv3-7" target="VHJQbQmuGnZVaMRCBhwd-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="260" />
+              <mxPoint x="530" y="200" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="61VFwIr57DAAggMTvFeH-1" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="61VFwIr57DAAggMTvFeH-2" value="The double hyphen from the SQL injection statement disables the user_id constraint on the query, giving the threat actor access to records from other users." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=10;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="61VFwIr57DAAggMTvFeH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.174;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="61VFwIr57DAAggMTvFeH-2" target="61VFwIr57DAAggMTvFeH-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
