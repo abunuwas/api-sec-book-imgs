@@ -708,6 +708,9 @@
         <mxCell id="zIwNymeELxn5ctdB544Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.602;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="Qcaqyb-tB9nIVkBebvKU-12" target="Qcaqyb-tB9nIVkBebvKU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zIwNymeELxn5ctdB544Y-2" value="&lt;div&gt;results = []&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;for book in db.books():&lt;div&gt;&amp;nbsp; &amp;nbsp; book.reading_time = calculate_reading_time(pages=book.pages)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=10;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="510" width="390" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
