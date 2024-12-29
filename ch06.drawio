@@ -700,7 +700,7 @@
           <mxGeometry x="80" y="450" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qcaqyb-tB9nIVkBebvKU-10" value="Status code: 201&lt;div&gt;{...}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#82b366;dashed=1;spacing=10;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="210" y="380" width="190" height="50" as="geometry" />
+          <mxGeometry x="235" y="380" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qcaqyb-tB9nIVkBebvKU-12" value="GET /books?format=printed&amp;amp;pages_gt=200" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=10;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="170" y="450" width="280" height="30" as="geometry" />
