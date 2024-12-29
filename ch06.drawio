@@ -687,6 +687,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jJmhh1TvtleuVer_xwdN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="Qcaqyb-tB9nIVkBebvKU-6" target="zIwNymeELxn5ctdB544Y-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Qcaqyb-tB9nIVkBebvKU-6" value="Book catalog API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="510" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -709,19 +716,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zIwNymeELxn5ctdB544Y-2" value="&lt;div&gt;results = []&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;for book in db.books():&lt;div&gt;&amp;nbsp; &amp;nbsp; book.reading_time = calculate_reading_time(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; pages=book.pages, reader_speed=reader.speed&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; )&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=10;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="513" width="310" height="105" as="geometry" />
+          <mxGeometry x="280" y="498" width="310" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="jJmhh1TvtleuVer_xwdN-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="330" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jJmhh1TvtleuVer_xwdN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qcaqyb-tB9nIVkBebvKU-6" target="jJmhh1TvtleuVer_xwdN-1">
+        <mxCell id="jJmhh1TvtleuVer_xwdN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="jJmhh1TvtleuVer_xwdN-1" target="jJmhh1TvtleuVer_xwdN-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jJmhh1TvtleuVer_xwdN-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="680" y="270" width="60" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="jJmhh1TvtleuVer_xwdN-4" value="def calculate_reading_speed(pages, reader_speed):&lt;div&gt;&amp;nbsp; &amp;nbsp; return reader_speed / pages&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=10;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="640" width="300" height="50" as="geometry" />
+          <mxGeometry x="289" y="630" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jJmhh1TvtleuVer_xwdN-6" value="Book" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="500" width="190" height="154" as="geometry" />
+          <mxGeometry x="650" y="388" width="190" height="154" as="geometry" />
         </mxCell>
         <mxCell id="jJmhh1TvtleuVer_xwdN-7" value="+ title: &quot;Microservice APIs&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jJmhh1TvtleuVer_xwdN-6">
           <mxGeometry y="26" width="190" height="26" as="geometry" />
@@ -744,17 +751,23 @@
         <mxCell id="jJmhh1TvtleuVer_xwdN-18" value="+ pages: null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jJmhh1TvtleuVer_xwdN-6">
           <mxGeometry y="128" width="190" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="jJmhh1TvtleuVer_xwdN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="jJmhh1TvtleuVer_xwdN-19" target="jJmhh1TvtleuVer_xwdN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jJmhh1TvtleuVer_xwdN-19" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="565" width="283" height="50" as="geometry" />
+          <mxGeometry x="297" y="550" width="283" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jJmhh1TvtleuVer_xwdN-20" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="313" y="665" width="48" height="20" as="geometry" />
+          <mxGeometry x="421.5" y="655" width="48" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jJmhh1TvtleuVer_xwdN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jJmhh1TvtleuVer_xwdN-18" target="jJmhh1TvtleuVer_xwdN-20">
+        <mxCell id="jJmhh1TvtleuVer_xwdN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="Qcaqyb-tB9nIVkBebvKU-6" target="jJmhh1TvtleuVer_xwdN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jJmhh1TvtleuVer_xwdN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="jJmhh1TvtleuVer_xwdN-18" target="jJmhh1TvtleuVer_xwdN-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="641" />
-              <mxPoint x="500" y="675" />
+              <mxPoint x="630" y="529" />
+              <mxPoint x="630" y="655" />
             </Array>
           </mxGeometry>
         </mxCell>
