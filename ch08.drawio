@@ -440,23 +440,20 @@
             <mxPoint x="260" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6kKfAW7yf6-mB-Caim0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.029;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.977;exitY=0.439;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="g6kKfAW7yf6-mB-Caim0-1" target="g6kKfAW7yf6-mB-Caim0-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-16" value="authorization request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="273" width="90" height="42" as="geometry" />
         </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-17" value="login page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="355" width="90" height="30" as="geometry" />
+          <mxGeometry x="80" y="343" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-18" value="POST /login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="420" width="90" height="30" as="geometry" />
+          <mxGeometry x="80" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-19" value="Consent screen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="90" height="30" as="geometry" />
+          <mxGeometry x="80" y="430" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-20" value="Grant&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consent&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="540" width="90" height="30" as="geometry" />
+          <mxGeometry x="80" y="468" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-21" value="Redirect back to API with authorization code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="590" width="110" height="50" as="geometry" />
