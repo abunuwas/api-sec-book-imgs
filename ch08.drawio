@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6" pages="7">
   <diagram name="8.1" id="ffCHaswGIi7hMNkYAQfV">
     <mxGraphModel dx="840" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -391,6 +391,43 @@
         </mxCell>
         <mxCell id="_Dv_uSndM1pT5ameBc5T-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="60" y="1160" width="780" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="78T3mbdfVSU9s7ksz7Ol" name="Page-7">
+    <mxGraphModel dx="636" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g6kKfAW7yf6-mB-Caim0-1" value="Auth0&lt;div&gt;authorization&lt;/div&gt;&lt;div&gt;server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="g6kKfAW7yf6-mB-Caim0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="80" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="g6kKfAW7yf6-mB-Caim0-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="80" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="g6kKfAW7yf6-mB-Caim0-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="195" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6kKfAW7yf6-mB-Caim0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.035;entryY=0.128;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g6kKfAW7yf6-mB-Caim0-6" target="g6kKfAW7yf6-mB-Caim0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6kKfAW7yf6-mB-Caim0-8" value="GET /login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6kKfAW7yf6-mB-Caim0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.651;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g6kKfAW7yf6-mB-Caim0-3" target="g6kKfAW7yf6-mB-Caim0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="320" />
+              <mxPoint x="400" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6kKfAW7yf6-mB-Caim0-10" value="Redirect (status code 307)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://apithreats.eu.auth0.com/authorize?&lt;/div&gt;&lt;div&gt;response_type=code&lt;/div&gt;&lt;div&gt;&amp;amp;audience= https://apithreats.com&lt;/div&gt;&lt;div&gt;&amp;amp;client_id={client_id}&lt;/div&gt;&lt;div&gt;&amp;amp;redirect_uri=http://localhost:8000/docs&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="194" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
