@@ -396,7 +396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="78T3mbdfVSU9s7ksz7Ol" name="Page-7">
-    <mxGraphModel dx="1167" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -464,13 +464,13 @@
         <mxCell id="g6kKfAW7yf6-mB-Caim0-10" value="Authorization request: Redirect (status code 307)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://apithreats.eu.auth0.com/authorize?&lt;/div&gt;&lt;div&gt;response_type=code&lt;/div&gt;&lt;div&gt;&amp;amp;audience= https://apithreats.com&lt;/div&gt;&lt;div&gt;&amp;amp;client_id={client_id}&lt;/div&gt;&lt;div&gt;&amp;amp;redirect_uri=http://localhost:8000/docs&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#82b366;dashed=1;spacing=10;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="220" y="170" width="290" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="g6kKfAW7yf6-mB-Caim0-16" value="authorization request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="g6kKfAW7yf6-mB-Caim0-16" value="Authorization request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="200" y="330.5" width="90" height="42" as="geometry" />
         </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.015;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;curved=0;" edge="1" parent="1" source="g6kKfAW7yf6-mB-Caim0-17" target="g6kKfAW7yf6-mB-Caim0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6kKfAW7yf6-mB-Caim0-17" value="login page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="g6kKfAW7yf6-mB-Caim0-17" value="Login page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="200" y="394.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-18" value="POST /login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -516,10 +516,10 @@
           <mxGeometry x="213" y="163" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-55" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="193" y="324" width="20" height="20" as="geometry" />
+          <mxGeometry x="191" y="323" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-56" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="196" y="390" width="20" height="20" as="geometry" />
+          <mxGeometry x="194" y="386" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g6kKfAW7yf6-mB-Caim0-57" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="193" y="425" width="20" height="20" as="geometry" />
