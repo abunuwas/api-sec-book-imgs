@@ -1522,7 +1522,7 @@
           <mxGeometry x="640" y="90" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DS0aKllF4g9LE49zWP0V-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
-          <mxGeometry x="530" y="253" width="18" height="18" as="geometry" />
+          <mxGeometry x="530" y="252" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="DS0aKllF4g9LE49zWP0V-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" edge="1" parent="1" source="DS0aKllF4g9LE49zWP0V-19" target="DS0aKllF4g9LE49zWP0V-3">
           <mxGeometry relative="1" as="geometry">
