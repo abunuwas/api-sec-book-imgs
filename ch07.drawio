@@ -1502,16 +1502,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DS0aKllF4g9LE49zWP0V-6" value="Patient" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="190" y="215" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DS0aKllF4g9LE49zWP0V-7" value="Doctor" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="190" y="295" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DS0aKllF4g9LE49zWP0V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="DS0aKllF4g9LE49zWP0V-16" target="DS0aKllF4g9LE49zWP0V-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DS0aKllF4g9LE49zWP0V-9" value="Receptionist" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="190" y="375" width="50" height="30" as="geometry" />
+          <mxGeometry x="200" y="295" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DS0aKllF4g9LE49zWP0V-10" value="Healthcare API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="150" width="185" height="30" as="geometry" />
@@ -1520,28 +1511,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="230" as="sourcePoint" />
             <mxPoint x="418" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="310" />
+              <mxPoint x="270" y="230" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DS0aKllF4g9LE49zWP0V-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
           <mxGeometry x="340" y="221" width="18" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="DS0aKllF4g9LE49zWP0V-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="DS0aKllF4g9LE49zWP0V-7" target="DS0aKllF4g9LE49zWP0V-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="310" as="sourcePoint" />
-            <mxPoint x="418" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DS0aKllF4g9LE49zWP0V-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
-          <mxGeometry x="310" y="301" width="18" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="DS0aKllF4g9LE49zWP0V-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="DS0aKllF4g9LE49zWP0V-9" target="DS0aKllF4g9LE49zWP0V-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="390" as="sourcePoint" />
-            <mxPoint x="418" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DS0aKllF4g9LE49zWP0V-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
-          <mxGeometry x="310" y="381" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="DS0aKllF4g9LE49zWP0V-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="DS0aKllF4g9LE49zWP0V-6" target="DS0aKllF4g9LE49zWP0V-19">
           <mxGeometry relative="1" as="geometry">
@@ -1550,14 +1527,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DS0aKllF4g9LE49zWP0V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="DS0aKllF4g9LE49zWP0V-19" target="DS0aKllF4g9LE49zWP0V-3">
+        <mxCell id="DS0aKllF4g9LE49zWP0V-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="DS0aKllF4g9LE49zWP0V-19" target="DS0aKllF4g9LE49zWP0V-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DS0aKllF4g9LE49zWP0V-19" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DS0aKllF4g9LE49zWP0V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="DS0aKllF4g9LE49zWP0V-14" target="DS0aKllF4g9LE49zWP0V-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="320" y="300" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DS0aKllF4g9LE49zWP0V-21" value="Identity provider&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="110" width="120" height="60" as="geometry" />
