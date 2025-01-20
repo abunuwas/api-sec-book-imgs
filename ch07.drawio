@@ -1568,22 +1568,22 @@
         <mxCell id="sNxXj79Lh6MW4NVJWDuY-1" value="JWT payload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="262" y="100" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sNxXj79Lh6MW4NVJWDuY-7" value="Authorization request + login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="sNxXj79Lh6MW4NVJWDuY-7" value="Authorization request + login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="60" y="6" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sNxXj79Lh6MW4NVJWDuY-9" value="IdP issues user&#39;s JWT with their permissions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=8;" vertex="1" parent="1">
+        <mxCell id="sNxXj79Lh6MW4NVJWDuY-9" value="IdP issues user&#39;s JWT with their permissions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;spacing=8;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="375" y="8" width="125" height="53" as="geometry" />
         </mxCell>
         <mxCell id="sNxXj79Lh6MW4NVJWDuY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DS0aKllF4g9LE49zWP0V-6" target="uwV1fC_8YChgCWhBpmaL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sNxXj79Lh6MW4NVJWDuY-12" value="User sends requests to the patient and the doctor&#39;s APIs using their token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=8;" vertex="1" parent="1">
+        <mxCell id="sNxXj79Lh6MW4NVJWDuY-12" value="User sends requests to the patient and the doctor&#39;s APIs using their token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;spacing=8;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="80" y="171.5" width="170" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="sNxXj79Lh6MW4NVJWDuY-13" value="The request to the patient&#39;s API succeeds since the JWT has the right permissions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=8;" vertex="1" parent="1">
+        <mxCell id="sNxXj79Lh6MW4NVJWDuY-13" value="The request to the patient&#39;s API succeeds since the JWT has the right permissions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;spacing=8;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="500" y="110" width="176" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="sNxXj79Lh6MW4NVJWDuY-14" value="The request to the doctor&#39;s API fails since the JWT does not have the right permissions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=8;" vertex="1" parent="1">
+        <mxCell id="sNxXj79Lh6MW4NVJWDuY-14" value="The request to the doctor&#39;s API fails since the JWT does not have the right permissions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;spacing=8;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="498" y="212" width="176" height="53" as="geometry" />
         </mxCell>
       </root>
