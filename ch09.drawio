@@ -982,7 +982,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a82z7qtIGLKrch2W8grv" name="9.13">
-    <mxGraphModel dx="948" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -994,9 +994,6 @@
         </mxCell>
         <mxCell id="mtHPwIPvSKnlw8_DJgGv-3" value="Physical layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="260" y="555" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mtHPwIPvSKnlw8_DJgGv-5" value="Cables, switches, etc." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="380" y="555" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mtHPwIPvSKnlw8_DJgGv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="470" width="390" height="60" as="geometry" />
@@ -1069,6 +1066,9 @@
         </mxCell>
         <mxCell id="mtHPwIPvSKnlw8_DJgGv-38" value="Semantic use of the data exchanged over the network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="380" y="132.5" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="uV9z6SEPpCi4rTiQryh2-1" value="Transmission of raw signals without interpretation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="380" y="552.5" width="180" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
