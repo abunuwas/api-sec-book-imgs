@@ -1671,7 +1671,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A8ccu0s-_k8onQuwo2Jj-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="590" y="320" width="60" height="80" as="geometry" />
+          <mxGeometry x="700" y="230" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A8ccu0s-_k8onQuwo2Jj-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="50" height="30" as="geometry" />
@@ -1711,6 +1711,18 @@
         </mxCell>
         <mxCell id="A8ccu0s-_k8onQuwo2Jj-19" value="Project management&lt;div&gt;API&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A8ccu0s-_k8onQuwo2Jj-20" value="GET /projects/california/1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8ccu0s-_k8onQuwo2Jj-21" value="PUT /projects/california/1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8ccu0s-_k8onQuwo2Jj-22" value="GET /projects/california/sacramento" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8ccu0s-_k8onQuwo2Jj-23" value="PUT /projects/california" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
