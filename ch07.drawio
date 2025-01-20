@@ -1570,6 +1570,12 @@
         <mxCell id="sNxXj79Lh6MW4NVJWDuY-9" value="IdP issues user&#39;s JWT with their permissions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="320" y="10" width="125" height="53" as="geometry" />
         </mxCell>
+        <mxCell id="sNxXj79Lh6MW4NVJWDuY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DS0aKllF4g9LE49zWP0V-6" target="uwV1fC_8YChgCWhBpmaL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sNxXj79Lh6MW4NVJWDuY-12" value="User sends requests to the patient and the doctor&#39;s APIs using their token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="116" y="171.5" width="190" height="53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
