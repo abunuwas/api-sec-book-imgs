@@ -1405,14 +1405,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U2ZBFIiKyAGqctQrgZyp-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="150" width="185" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="U2ZBFIiKyAGqctQrgZyp-1" value="Patient API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="417.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2ZBFIiKyAGqctQrgZyp-2" value="Doctor API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="417.5" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2ZBFIiKyAGqctQrgZyp-3" value="Receptionist API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="417.5" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2ZBFIiKyAGqctQrgZyp-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="200" y="215" width="50" height="30" as="geometry" />
@@ -1422,6 +1425,9 @@
         </mxCell>
         <mxCell id="U2ZBFIiKyAGqctQrgZyp-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="200" y="375" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U2ZBFIiKyAGqctQrgZyp-9" value="Healthcare API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="150" width="185" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
