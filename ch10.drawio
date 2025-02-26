@@ -214,10 +214,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2CrL97nAWcQY_oXuFT0W" name="10.4">
-    <mxGraphModel dx="1050" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="636" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OJDmj5fTwl5VcTCA4R0q-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="410" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDmj5fTwl5VcTCA4R0q-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="OJDmj5fTwl5VcTCA4R0q-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDmj5fTwl5VcTCA4R0q-3" value="https://malicious-site.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OJDmj5fTwl5VcTCA4R0q-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDmj5fTwl5VcTCA4R0q-4" value="/authorize?response_type=code&amp;amp;client_id=s6BhdR&amp;amp;redirect_uri=https://malicious-site.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="510" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&amp;lt;script&amp;gt;&lt;/div&gt;window.onload = function() {&lt;br&gt;&amp;nbsp; &amp;nbsp; window.location.href = authorization_request_url;&lt;br&gt;};&lt;div&gt;&amp;lt;/script&amp;gt;&lt;/div&gt;" link="window.onload = function() {&#xa;    window.location.href = &quot;https://www.example.com&quot;; // Replace with your target URL&#xa;};" id="OJDmj5fTwl5VcTCA4R0q-5">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="210" y="610" width="300" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
