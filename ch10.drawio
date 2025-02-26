@@ -119,24 +119,6 @@
         <mxCell id="KH2AH1txwN3TRQSQFPnI-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
           <mxGeometry x="50" y="540" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="800" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="800" width="220" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-9" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;sub&quot;: &quot;b896ff3a&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; ...&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="457.5" y="864" width="112.5" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-10" value="Payload (claims)" style="text;html=1;strokeColor=none;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="830" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-11" value="Signature" style="text;html=1;strokeColor=default;fillColor=#B5739D;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="940" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-12" value="Header" style="text;html=1;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="800" width="220" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-18" target="KH2AH1txwN3TRQSQFPnI-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
