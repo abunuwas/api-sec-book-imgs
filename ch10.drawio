@@ -219,7 +219,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OJDmj5fTwl5VcTCA4R0q-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="70" width="410" height="260" as="geometry" />
+          <mxGeometry x="445" y="70" width="410" height="260" as="geometry" />
         </mxCell>
         <mxCell id="OJDmj5fTwl5VcTCA4R0q-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="OJDmj5fTwl5VcTCA4R0q-1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -236,18 +236,10 @@
           <mxGeometry x="150" y="196" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OJDmj5fTwl5VcTCA4R0q-4" value="/authorize?response_type=code&amp;amp;client_id=s6BhdR&amp;amp;redirect_uri=https://malicious-site.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="330" y="370" width="510" height="30" as="geometry" />
+          <mxGeometry x="500" y="350" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJDmj5fTwl5VcTCA4R0q-7" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="690" y="375" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OJDmj5fTwl5VcTCA4R0q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="OJDmj5fTwl5VcTCA4R0q-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="575" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="575" y="368" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="860" y="355" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OJDmj5fTwl5VcTCA4R0q-9" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="10" y="185" width="50" height="30" as="geometry" />
@@ -257,6 +249,30 @@
         </mxCell>
         <mxCell id="OJDmj5fTwl5VcTCA4R0q-11" value="User visits a malicious website, where they are inmediately redirected to their identity provider with an authorization request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDmj5fTwl5VcTCA4R0q-12" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="330" width="410" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDmj5fTwl5VcTCA4R0q-13" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="OJDmj5fTwl5VcTCA4R0q-12">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDmj5fTwl5VcTCA4R0q-14" value="https://malicious-site.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OJDmj5fTwl5VcTCA4R0q-12">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&amp;lt;script&amp;gt;&lt;/div&gt;window.onload = function() {&lt;br&gt;&amp;nbsp; &amp;nbsp; window.location.href = authorization_request_url;&lt;br&gt;};&lt;div&gt;&amp;lt;/script&amp;gt;&lt;/div&gt;" link="window.onload = function() {&#xa;    window.location.href = &quot;https://www.example.com&quot;; // Replace with your target URL&#xa;};" id="OJDmj5fTwl5VcTCA4R0q-15">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=10;" vertex="1" parent="OJDmj5fTwl5VcTCA4R0q-12">
+            <mxGeometry x="10" y="160" width="300" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OJDmj5fTwl5VcTCA4R0q-16" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="OJDmj5fTwl5VcTCA4R0q-12">
+          <mxGeometry x="150" y="196" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDmj5fTwl5VcTCA4R0q-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.782;entryY=-0.049;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="OJDmj5fTwl5VcTCA4R0q-5" target="OJDmj5fTwl5VcTCA4R0q-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="899" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
