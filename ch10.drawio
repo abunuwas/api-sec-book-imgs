@@ -22,7 +22,7 @@
         <mxCell id="yzB2KYVp-gDp9_4tMVdA-9" value="https://bank.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="yzB2KYVp-gDp9_4tMVdA-7">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yzB2KYVp-gDp9_4tMVdA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yzB2KYVp-gDp9_4tMVdA-5" target="yzB2KYVp-gDp9_4tMVdA-7">
+        <mxCell id="yzB2KYVp-gDp9_4tMVdA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="yzB2KYVp-gDp9_4tMVdA-5" target="yzB2KYVp-gDp9_4tMVdA-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="725" y="55" />
@@ -31,11 +31,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yzB2KYVp-gDp9_4tMVdA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.138;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yzB2KYVp-gDp9_4tMVdA-3" target="yzB2KYVp-gDp9_4tMVdA-6">
+        <mxCell id="yzB2KYVp-gDp9_4tMVdA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.138;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="yzB2KYVp-gDp9_4tMVdA-3" target="yzB2KYVp-gDp9_4tMVdA-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yzB2KYVp-gDp9_4tMVdA-12" value="Bank account credentials" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzB2KYVp-gDp9_4tMVdA-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yzB2KYVp-gDp9_4tMVdA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=37.5;entryPerimeter=0;curved=0;" edge="1" parent="1" source="yzB2KYVp-gDp9_4tMVdA-12" target="yzB2KYVp-gDp9_4tMVdA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzB2KYVp-gDp9_4tMVdA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="yzB2KYVp-gDp9_4tMVdA-6" target="yzB2KYVp-gDp9_4tMVdA-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
