@@ -96,21 +96,28 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aGpDziVCVIYju6bnXfgR" name="10.3">
-    <mxGraphModel dx="656" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-1" value="Authorization server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-1" value="Authorization server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="535" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-2" value="FinTech application&lt;div&gt;(client)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-2" value="FinTech application&lt;div&gt;(client)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="198" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-3" value="User / user agent" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="50" y="105" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-4" target="KH2AH1txwN3TRQSQFPnI-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="595" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
-          <mxGeometry x="45" y="380" width="60" height="60" as="geometry" />
+          <mxGeometry x="50" y="540" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="800" width="220" height="20" as="geometry" />
@@ -145,50 +152,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="80" width="10" height="470" as="geometry" />
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="10" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-19" target="KH2AH1txwN3TRQSQFPnI-18">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-19">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="310" y="170" />
               <mxPoint x="310" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="510" y="82" width="10" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.267;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-18" target="KH2AH1txwN3TRQSQFPnI-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="117" />
-              <mxPoint x="200" y="117" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-27" target="KH2AH1txwN3TRQSQFPnI-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="325" y="265" width="10" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-38" value="User logs in with the authorization server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-38" value="User logs in with the authorization server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="205" y="80" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-39" value="Authorization server issues the authorization code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-39" value="Authorization server issues the authorization code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="186.25" y="135" width="287.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-40" value="User agent&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;sends the code to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the client&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="161" y="290" width="149" height="50" as="geometry" />
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-40" value="User agent&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;sends the code to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the client&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;spacing=5;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="161" y="295" width="149" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-41" value="The FinTech application exchanges the authorization code for an access and ID token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="272" width="149" height="68" as="geometry" />
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-41" value="The FinTech application exchanges the authorization code for an access and ID token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="345" y="278" width="149" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-43" value="Authorization server issues the access and ID token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-43" value="Authorization server issues the access and ID token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="345" y="390" width="149" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-44" value="Resource server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-44" value="Resource server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="535" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.819;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -201,18 +201,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-48" value="The client forwards the access and ID token to the user agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-48" value="The client forwards the access and ID token to the user agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="161" y="368" width="149" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.84;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-27" target="KH2AH1txwN3TRQSQFPnI-18">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-53" value="User agent uses the access token and ID token to prove their identity and access data in the resource server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="186.25" y="456" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.847;entryY=0.806;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-27" target="KH2AH1txwN3TRQSQFPnI-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="437" />
+              <mxPoint x="237" y="435" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-53" value="User agent uses the access token and ID token to prove their identity and access data in the resource server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="186.25" y="456" width="320" height="40" as="geometry" />
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.255;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-18" target="KH2AH1txwN3TRQSQFPnI-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="115" />
+              <mxPoint x="230" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-57" value="Threat actor attempts to forge an ID token with the details of another user to access their data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="186.25" y="524" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
