@@ -57,6 +57,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-23" value="GET /payments/1234&lt;div&gt;Authorization: Bearer &amp;lt;legitimate_&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_token&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="230" y="275" width="280" height="54" as="geometry" />
+        </mxCell>
         <mxCell id="UxiMIKTZ3GnqCShfKizk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="UxiMIKTZ3GnqCShfKizk-1" target="UxiMIKTZ3GnqCShfKizk-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -78,16 +81,13 @@
           <mxGeometry x="100.5" y="300" width="69" height="69" as="geometry" />
         </mxCell>
         <mxCell id="UxiMIKTZ3GnqCShfKizk-3" value="Bank API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxiMIKTZ3GnqCShfKizk-5" value="GET /payments/1234" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="261" y="214" width="150" height="30" as="geometry" />
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-5" value="GET /payments/1234&lt;div&gt;Authorization: Bearer &amp;lt;legitimate_&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_token&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="280" height="54" as="geometry" />
         </mxCell>
         <mxCell id="UxiMIKTZ3GnqCShfKizk-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="UxiMIKTZ3GnqCShfKizk-8" value="GET /payments/1234" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="261" y="300" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UxiMIKTZ3GnqCShfKizk-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" vertex="1" parent="1">
           <mxGeometry x="326.5" y="325" width="19" height="19" as="geometry" />
