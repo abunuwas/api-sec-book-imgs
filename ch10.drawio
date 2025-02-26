@@ -134,7 +134,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="140" y="80" width="10" height="440" as="geometry" />
         </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-19">
@@ -146,13 +146,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="510" y="82" width="10" height="360" as="geometry" />
         </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-27" target="KH2AH1txwN3TRQSQFPnI-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="325" y="265" width="10" height="175" as="geometry" />
         </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-38" value="User logs in with the authorization server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
