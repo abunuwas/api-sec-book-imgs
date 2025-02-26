@@ -360,7 +360,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2dZC0Y_uv28sFyDbFawh" name="10.6">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="558" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,13 +377,13 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rOTq1057D0sb1gkj8Xid-4" value="Authorization server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="620" y="145" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rOTq1057D0sb1gkj8Xid-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOTq1057D0sb1gkj8Xid-5" target="rOTq1057D0sb1gkj8Xid-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rOTq1057D0sb1gkj8Xid-5" value="Confidential client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rOTq1057D0sb1gkj8Xid-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="40" y="161" width="50" height="30" as="geometry" />
@@ -403,8 +403,11 @@
         <mxCell id="rOTq1057D0sb1gkj8Xid-11" value="https://exaple.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="rOTq1057D0sb1gkj8Xid-9">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rOTq1057D0sb1gkj8Xid-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rOTq1057D0sb1gkj8Xid-6" target="rOTq1057D0sb1gkj8Xid-9">
+        <mxCell id="rOTq1057D0sb1gkj8Xid-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="rOTq1057D0sb1gkj8Xid-6" target="rOTq1057D0sb1gkj8Xid-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOTq1057D0sb1gkj8Xid-15" value="Public clients run in the user agent, hence their source code is visible to everyone and their interactions with the authorization server can&#39;t be authenticated." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
