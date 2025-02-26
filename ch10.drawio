@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="2">
   <diagram name="10.1" id="lkFxprdJkYamxbweEZGj">
     <mxGraphModel dx="1000" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,49 @@
         </mxCell>
         <mxCell id="yzB2KYVp-gDp9_4tMVdA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="yzB2KYVp-gDp9_4tMVdA-6" target="yzB2KYVp-gDp9_4tMVdA-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6s5NypfgmZ0frs7279ig" name="10.2">
+    <mxGraphModel dx="700" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxiMIKTZ3GnqCShfKizk-1" target="UxiMIKTZ3GnqCShfKizk-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="185" />
+              <mxPoint x="210" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-1" value="Legitimate user" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxiMIKTZ3GnqCShfKizk-10" target="UxiMIKTZ3GnqCShfKizk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxiMIKTZ3GnqCShfKizk-2" target="UxiMIKTZ3GnqCShfKizk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-2" value="Threat actor" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="100.5" y="300" width="69" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-3" value="Bank API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-5" value="GET /payments/1234" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="261" y="214" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-8" value="GET /payments/1234" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="261" y="300" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UxiMIKTZ3GnqCShfKizk-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="325" width="19" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
