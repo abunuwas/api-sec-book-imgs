@@ -379,6 +379,9 @@
         <mxCell id="rOTq1057D0sb1gkj8Xid-4" value="Authorization server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="620" y="145" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rOTq1057D0sb1gkj8Xid-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOTq1057D0sb1gkj8Xid-5" target="rOTq1057D0sb1gkj8Xid-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rOTq1057D0sb1gkj8Xid-5" value="Confidential client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
         </mxCell>
