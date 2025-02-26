@@ -201,7 +201,7 @@
           <mxGeometry x="161" y="260" width="149" height="68" as="geometry" />
         </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-41" value="The FinTech application exchanges the authorization code for an access and ID token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="261" width="149" height="68" as="geometry" />
+          <mxGeometry x="345" y="261" width="149" height="68" as="geometry" />
         </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.847;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-19" target="KH2AH1txwN3TRQSQFPnI-27">
           <mxGeometry relative="1" as="geometry">
@@ -213,6 +213,9 @@
         </mxCell>
         <mxCell id="KH2AH1txwN3TRQSQFPnI-43" value="The OIDC server issues the access and ID token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="149" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-44" value="Resource server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
