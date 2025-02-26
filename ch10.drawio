@@ -225,6 +225,9 @@
         <mxCell id="KH2AH1txwN3TRQSQFPnI-57" value="Threat actor attempts to forge an ID token with the details of another user to access their data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="186.25" y="524" width="320" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" vertex="1" parent="1">
+          <mxGeometry x="324" y="559.5" width="21" height="21" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
