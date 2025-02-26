@@ -109,7 +109,7 @@
         <mxCell id="KH2AH1txwN3TRQSQFPnI-3" value="User / user agent" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="50" y="105" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KH2AH1txwN3TRQSQFPnI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-4" target="KH2AH1txwN3TRQSQFPnI-44">
+        <mxCell id="KH2AH1txwN3TRQSQFPnI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="KH2AH1txwN3TRQSQFPnI-4" target="KH2AH1txwN3TRQSQFPnI-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="595" y="570" />
