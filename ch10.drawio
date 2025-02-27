@@ -711,7 +711,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k0Ki8aumqfpObXaoImrh" name="10.10">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -724,7 +724,7 @@
         <mxCell id="_ZNtsiRRkuR-mfBkbJA_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="280" width="260" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_ZNtsiRRkuR-mfBkbJA_-7" value="Payload (claims)" style="text;html=1;strokeColor=none;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="_ZNtsiRRkuR-mfBkbJA_-7" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Payload (claims)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="570" y="280" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZNtsiRRkuR-mfBkbJA_-8" value="Signature" style="text;html=1;strokeColor=default;fillColor=#B5739D;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
