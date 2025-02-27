@@ -836,20 +836,20 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A69OYDTT5YQKYMhcYDL3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="260" height="200" as="geometry" />
+          <mxGeometry x="570" y="230" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="A69OYDTT5YQKYMhcYDL3-4" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Payload (claims)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="200" width="260" height="30" as="geometry" />
+        <mxCell id="A69OYDTT5YQKYMhcYDL3-4" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Payload (claims)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A69OYDTT5YQKYMhcYDL3-5" value="Signature" style="text;html=1;strokeColor=default;fillColor=#B5739D;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="480" width="260" height="30" as="geometry" />
+          <mxGeometry x="570" y="330" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A69OYDTT5YQKYMhcYDL3-6" value="Header" style="text;html=1;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="170" width="260" height="30" as="geometry" />
+          <mxGeometry x="570" y="170" width="210" height="30" as="geometry" />
         </mxCell>
         <UserObject label="{&#xa;  &quot;iss&quot;: &quot;s6BhdRkqt3&quot;,&#xa;  &quot;aud&quot;: &quot;https://auth.apithreats.com&quot;,&#xa;  &quot;response_type&quot;: &quot;code id_token&quot;,&#xa;  ...&#xa; }" link="{&#xa;   &quot;iss&quot;: &quot;s6BhdRkqt3&quot;,&#xa;   &quot;aud&quot;: &quot;https://auth.apithreats.com&quot;,&#xa;   &quot;response_type&quot;: &quot;code id_token&quot;,&#xa;   &quot;client_id&quot;: &quot;s6BhdRkqt3&quot;,&#xa;   &quot;redirect_uri&quot;: &quot;https://client.example.org/cb&quot;,&#xa;   &quot;scope&quot;: &quot;openid&quot;,&#xa;   &quot;state&quot;: &quot;af0ifjsldkj&quot;,&#xa;   &quot;nonce&quot;: &quot;n-0S6_WzA2Mj&quot;,&#xa;   &quot;max_age&quot;: 86400&#xa;  }" id="A69OYDTT5YQKYMhcYDL3-7">
           <mxCell style="text;whiteSpace=wrap;fontColor=#7EA6E0;" vertex="1" parent="1">
-            <mxGeometry x="575" y="309" width="260" height="180" as="geometry" />
+            <mxGeometry x="573" y="230" width="207" height="97" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="A69OYDTT5YQKYMhcYDL3-8" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3M..." style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;align=center;" vertex="1" parent="1">
