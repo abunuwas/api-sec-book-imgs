@@ -831,7 +831,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v4PnsrmHeWByVnwd6VDA" name="10.11">
-    <mxGraphModel dx="1500" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="656" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -981,6 +981,12 @@
         </mxCell>
         <mxCell id="j3Vo2xgTsk3UTAGts3d4-24" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="820" width="630" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="j3Vo2xgTsk3UTAGts3d4-25" value="The user agent follows the redirect to complete the authorization process" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="246.72" y="820" width="232.05" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j3Vo2xgTsk3UTAGts3d4-26" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="239.25" y="820" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
