@@ -385,7 +385,7 @@
         <mxCell id="rOTq1057D0sb1gkj8Xid-5" value="Confidential client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="720" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rOTq1057D0sb1gkj8Xid-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" parent="1" vertex="1">
+        <mxCell id="rOTq1057D0sb1gkj8Xid-6" value="User" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" parent="1" vertex="1">
           <mxGeometry x="40" y="161" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rOTq1057D0sb1gkj8Xid-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rOTq1057D0sb1gkj8Xid-6" target="rOTq1057D0sb1gkj8Xid-1" edge="1">
