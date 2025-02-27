@@ -1028,9 +1028,6 @@
         <mxCell id="-Sm5-y7WH8w6uM7gT7do-4" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="110.47999999999996" y="271" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aF-mKH20X8DDcVqdgzjz-21" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1060" width="698.97" height="290" as="geometry" />
-        </mxCell>
         <mxCell id="aF-mKH20X8DDcVqdgzjz-22" value="The user agent follows the redirect to complete the authorization process" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="126.74999999999999" y="390" width="232.05" height="40" as="geometry" />
         </mxCell>
