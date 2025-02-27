@@ -484,19 +484,19 @@
         <mxCell id="HF-1Os0IBjoKAulOLchL-15" value="The client wraps the authorization request parameters in a JWT sends them to the authorization server in exchange for a request URI" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="460" y="190" width="245" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HF-1Os0IBjoKAulOLchL-16" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="HF-1Os0IBjoKAulOLchL-16" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="449" y="184" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HF-1Os0IBjoKAulOLchL-17" value="The authorization server produces a unique request URI and sends it back to the client" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="430" y="292" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HF-1Os0IBjoKAulOLchL-18" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="HF-1Os0IBjoKAulOLchL-18" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="425" y="286" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HF-1Os0IBjoKAulOLchL-20" value="The client issues an authoriztion request URL with the provided request URI and redirects the user agent to that URL" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="393" width="205" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HF-1Os0IBjoKAulOLchL-21" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="HF-1Os0IBjoKAulOLchL-21" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="450" y="380" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HF-1Os0IBjoKAulOLchL-27" value="The user agent follows the redirect to complete the process with the authorization server" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" vertex="1" parent="1">
