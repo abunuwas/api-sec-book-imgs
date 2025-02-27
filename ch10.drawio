@@ -425,7 +425,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k0Ki8aumqfpObXaoImrh" name="10.7">
-    <mxGraphModel dx="1050" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -452,16 +452,8 @@
             <mxGeometry x="575" y="269" width="260" height="180" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Ylwk7DSMfEJOWMldJglT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.443;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ylwk7DSMfEJOWMldJglT-26" target="Ylwk7DSMfEJOWMldJglT-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="270" y="380" />
-              <mxPoint x="160" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_ZNtsiRRkuR-mfBkbJA_-10" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3M..." style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="300" width="300" height="30" as="geometry" />
+          <mxGeometry x="220" y="234" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ylwk7DSMfEJOWMldJglT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Ylwk7DSMfEJOWMldJglT-12" target="Ylwk7DSMfEJOWMldJglT-15">
           <mxGeometry relative="1" as="geometry">
@@ -474,8 +466,8 @@
         <mxCell id="Ylwk7DSMfEJOWMldJglT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=0.217;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ylwk7DSMfEJOWMldJglT-12" target="Ylwk7DSMfEJOWMldJglT-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="95" y="360" />
-              <mxPoint x="30" y="360" />
+              <mxPoint x="95" y="230" />
+              <mxPoint x="30" y="230" />
               <mxPoint x="30" y="570" />
             </Array>
           </mxGeometry>
@@ -497,8 +489,8 @@
         </mxCell>
         <mxCell id="Ylwk7DSMfEJOWMldJglT-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560.95" y="314.87" as="sourcePoint" />
-            <mxPoint x="530" y="314.87" as="targetPoint" />
+            <mxPoint x="560" y="248.67000000000002" as="sourcePoint" />
+            <mxPoint x="529.05" y="248.67000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ylwk7DSMfEJOWMldJglT-21" value="Authorization server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -512,21 +504,21 @@
         </mxCell>
         <mxCell id="Ylwk7DSMfEJOWMldJglT-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.399;exitY=1.079;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="379.5199999999999" y="346.37" as="sourcePoint" />
-            <mxPoint x="379.82" y="374" as="targetPoint" />
+            <mxPoint x="369.3299999999999" y="296.18" as="sourcePoint" />
+            <mxPoint x="369.63" y="323.81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ylwk7DSMfEJOWMldJglT-26" value="/authorize?client_id=&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;s6BhdR&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;request=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3M...&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="390" width="520" height="30" as="geometry" />
+          <mxGeometry x="40" y="350" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ylwk7DSMfEJOWMldJglT-32" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="370" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ylwk7DSMfEJOWMldJglT-34" value="The client wraps the authorization request parameters within a signed JWT, and uses that to produce the authorization request and redirects the user agent to that URL" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="310" y="220" width="250" height="74" as="geometry" />
+        <mxCell id="Ylwk7DSMfEJOWMldJglT-34" value="The client wraps the authorization request parameters within a signed JWT" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="780" y="50" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ylwk7DSMfEJOWMldJglT-33" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="300" y="210" width="20" height="20" as="geometry" />
+          <mxGeometry x="770" y="40" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ylwk7DSMfEJOWMldJglT-35" value="The user agent follows the redirect to complete the process with the authorization server" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="259.5" y="470" width="221" height="60" as="geometry" />
@@ -534,8 +526,20 @@
         <mxCell id="Ylwk7DSMfEJOWMldJglT-36" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="250" y="465" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ylwk7DSMfEJOWMldJglT-37" value="Redirects the user agent with a 303 response status code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="340" width="180" height="34" as="geometry" />
+        <mxCell id="Ylwk7DSMfEJOWMldJglT-37" value="Then it redirects the user agent with a 303 response status code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="160" y="288" width="130" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Ylwk7DSMfEJOWMldJglT-38" value="Then it uses the signed JWT to produce the authorization request URL" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ylwk7DSMfEJOWMldJglT-39" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="380" y="269" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ylwk7DSMfEJOWMldJglT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="Ylwk7DSMfEJOWMldJglT-26" target="Ylwk7DSMfEJOWMldJglT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ylwk7DSMfEJOWMldJglT-42" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="150" y="285" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
