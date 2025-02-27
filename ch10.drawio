@@ -502,7 +502,7 @@
           <mxGeometry x="120" y="535" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ylwk7DSMfEJOWMldJglT-24" value="The user agent requests an authorization URL from the client" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380" y="10" width="240" height="40" as="geometry" />
+          <mxGeometry x="380" y="14" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
