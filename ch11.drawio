@@ -110,7 +110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yAUcxbJ6rW7f1Wcox9R_-11" value="Error while persisting record to the database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="yAUcxbJ6rW7f1Wcox9R_-11" value="Error while persisting record to the database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="462" y="252" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yAUcxbJ6rW7f1Wcox9R_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="yAUcxbJ6rW7f1Wcox9R_-12" target="yAUcxbJ6rW7f1Wcox9R_-5">
