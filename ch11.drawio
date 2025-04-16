@@ -52,7 +52,7 @@
         <mxCell id="E8T-e9xZ8ykw1BwZZCeE-15" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#b85450;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="404" y="161" width="306" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="E8T-e9xZ8ykw1BwZZCeE-16" value="Unusual rate of errors in PUT /payments/{payment_id} endpoint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="E8T-e9xZ8ykw1BwZZCeE-16" value="Unusual error rate in PUT /payments/{payment_id} endpoint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="602" y="5" width="195" height="50" as="geometry" />
         </mxCell>
       </root>
