@@ -515,7 +515,7 @@
         <mxCell id="xyZhpsPW10UfdjJKYumP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="xyZhpsPW10UfdjJKYumP-6" target="xyZhpsPW10UfdjJKYumP-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="150" />
+              <mxPoint x="310" y="126" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -585,10 +585,10 @@
           <mxGeometry x="800" y="351.5" width="27.04" height="37" as="geometry" />
         </mxCell>
         <mxCell id="xyZhpsPW10UfdjJKYumP-23" value="Insurance Quote&lt;div&gt;Service logs&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.logs;" vertex="1" parent="1">
-          <mxGeometry x="192.96" y="131.5" width="27.04" height="37" as="geometry" />
+          <mxGeometry x="192.96" y="107.5" width="27.04" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="xyZhpsPW10UfdjJKYumP-24" value="POST /quotes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="105" y="222" width="100" height="30" as="geometry" />
+        <mxCell id="xyZhpsPW10UfdjJKYumP-24" value="POST /quotes&lt;div&gt;{malformed postal code}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="210" width="145" height="42" as="geometry" />
         </mxCell>
         <mxCell id="xyZhpsPW10UfdjJKYumP-25" value="Status code: 500&lt;div&gt;{&quot;error&quot;: &quot;Unable to process your request&quot;}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="90" y="268" width="130" height="72" as="geometry" />
@@ -606,7 +606,7 @@
           <mxGeometry x="410" y="220" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="xyZhpsPW10UfdjJKYumP-32" value="&lt;div&gt;Trace ID:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;58bd41bf&lt;/span&gt;&lt;/div&gt;Server error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="230" y="104.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="230" y="80.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xyZhpsPW10UfdjJKYumP-34" value="&lt;div&gt;Trace ID:&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;58bd41bf&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: nowrap; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3BTrace%20ID%3A%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20transparent%3B%26quot%3B%26gt%3B58bd41bf%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3BServer%20error%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3Bdashed%3D1%3BfillColor%3D%23f8cecc%3BstrokeColor%3D%23b85450%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%2270%22%20width%3D%22130%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;Success" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="663" y="329.5" width="120" height="35" as="geometry" />
