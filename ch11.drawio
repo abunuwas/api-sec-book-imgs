@@ -762,10 +762,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TVTnTBhct6zjAoRWC_WK-1" value="Payments API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TVTnTBhct6zjAoRWC_WK-1" value="Payments API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVTnTBhct6zjAoRWC_WK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="TVTnTBhct6zjAoRWC_WK-2" target="TVTnTBhct6zjAoRWC_WK-1">
+        <mxCell id="TVTnTBhct6zjAoRWC_WK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="TVTnTBhct6zjAoRWC_WK-2" target="TVTnTBhct6zjAoRWC_WK-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="155" />
@@ -777,9 +777,9 @@
           <mxGeometry x="30" y="140" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TVTnTBhct6zjAoRWC_WK-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="710" y="220" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVTnTBhct6zjAoRWC_WK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="TVTnTBhct6zjAoRWC_WK-5" target="TVTnTBhct6zjAoRWC_WK-1">
+        <mxCell id="TVTnTBhct6zjAoRWC_WK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="TVTnTBhct6zjAoRWC_WK-5" target="TVTnTBhct6zjAoRWC_WK-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="225" />
@@ -790,7 +790,7 @@
         <mxCell id="TVTnTBhct6zjAoRWC_WK-5" value="User bb7f651e" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="30" y="210" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TVTnTBhct6zjAoRWC_WK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="TVTnTBhct6zjAoRWC_WK-7" target="TVTnTBhct6zjAoRWC_WK-1">
+        <mxCell id="TVTnTBhct6zjAoRWC_WK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="TVTnTBhct6zjAoRWC_WK-7" target="TVTnTBhct6zjAoRWC_WK-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="305" />
@@ -814,13 +814,13 @@
           <mxGeometry x="110" y="270" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TVTnTBhct6zjAoRWC_WK-15" value="select * from payments where payment.user_id = &#39;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;9281c2de&#39;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="240" y="130" width="330" height="20" as="geometry" />
+          <mxGeometry x="410" y="120" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TVTnTBhct6zjAoRWC_WK-17" value="select * from payments \&lt;div&gt;&amp;nbsp; where payment.user_id = &#39;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;9281c2de&#39; and payment.id = 10&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="240" y="170" width="330" height="40" as="geometry" />
+          <mxGeometry x="410" y="150" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVTnTBhct6zjAoRWC_WK-18" value="insert into payments \&lt;div&gt;&amp;nbsp; (user_id, amount, ...) values (&#39;1ce89e68&#39;, 100, ...)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="240" y="230" width="280" height="40" as="geometry" />
+          <mxGeometry x="410" y="200" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
