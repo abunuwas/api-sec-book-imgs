@@ -725,7 +725,7 @@
         <mxCell id="GJ2Xn5G0ea9yPuH8uMGD-19" value="Active users&lt;div&gt;12,000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="660" y="194" width="90" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="GJ2Xn5G0ea9yPuH8uMGD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="GJ2Xn5G0ea9yPuH8uMGD-20" target="GJ2Xn5G0ea9yPuH8uMGD-27">
+        <mxCell id="GJ2Xn5G0ea9yPuH8uMGD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="GJ2Xn5G0ea9yPuH8uMGD-20" target="GJ2Xn5G0ea9yPuH8uMGD-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJ2Xn5G0ea9yPuH8uMGD-20" value="User API requests per second&lt;div&gt;.8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=10;spacingBottom=0;spacingRight=10;" vertex="1" parent="1">
@@ -751,7 +751,7 @@
         <mxCell id="GJ2Xn5G0ea9yPuH8uMGD-28" value="Requests per second (cc35ff86)&lt;div&gt;2,000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="640" y="300" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GJ2Xn5G0ea9yPuH8uMGD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="GJ2Xn5G0ea9yPuH8uMGD-20" target="GJ2Xn5G0ea9yPuH8uMGD-28">
+        <mxCell id="GJ2Xn5G0ea9yPuH8uMGD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="GJ2Xn5G0ea9yPuH8uMGD-20" target="GJ2Xn5G0ea9yPuH8uMGD-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
