@@ -908,7 +908,7 @@
             <mxGeometry x="395" y="185" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pI9owdg8NRNpavYRwJ0a-16" value="Auto-instrumentation logs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="pI9owdg8NRNpavYRwJ0a-16" value="Auto-instrumentation logs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#9673a6;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="380" y="80" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
