@@ -1024,9 +1024,6 @@
         <mxCell id="qLwM0gHJrbq75MZCnJcX-15" value="GET /api/user/search/pippin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="260" width="170" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="qLwM0gHJrbq75MZCnJcX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="qLwM0gHJrbq75MZCnJcX-16" target="qLwM0gHJrbq75MZCnJcX-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qLwM0gHJrbq75MZCnJcX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" edge="1" parent="1" source="qLwM0gHJrbq75MZCnJcX-16" target="qLwM0gHJrbq75MZCnJcX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
