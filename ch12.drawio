@@ -7,16 +7,16 @@
         <mxCell id="x7CPs7mgxBJ3FO-aDUnE-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="420" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x7CPs7mgxBJ3FO-aDUnE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="x7CPs7mgxBJ3FO-aDUnE-2" target="x7CPs7mgxBJ3FO-aDUnE-1">
+        <mxCell id="x7CPs7mgxBJ3FO-aDUnE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;curved=0;" edge="1" parent="1" source="x7CPs7mgxBJ3FO-aDUnE-2" target="x7CPs7mgxBJ3FO-aDUnE-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="125" />
+              <mxPoint x="200" y="192" />
               <mxPoint x="200" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x7CPs7mgxBJ3FO-aDUnE-2" value="Authenticated user" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="110" y="110" width="50" height="30" as="geometry" />
+          <mxGeometry x="110" y="177" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7CPs7mgxBJ3FO-aDUnE-4" value="GET /courses/1/lessons/1&lt;div&gt;Authorization: Bearer ey...&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="220" y="190" width="170" height="45" as="geometry" />
@@ -25,7 +25,7 @@
           <mxGeometry x="380" y="207" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="x7CPs7mgxBJ3FO-aDUnE-7" value="Unauthenticated user" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="110" y="310" width="50" height="30" as="geometry" />
+          <mxGeometry x="110" y="275" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7CPs7mgxBJ3FO-aDUnE-9" value="GET /courses/1/lessons/1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="220" y="250" width="170" height="40" as="geometry" />
@@ -33,10 +33,10 @@
         <mxCell id="x7CPs7mgxBJ3FO-aDUnE-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" vertex="1" parent="1">
           <mxGeometry x="382" y="259" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="x7CPs7mgxBJ3FO-aDUnE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="x7CPs7mgxBJ3FO-aDUnE-7" target="x7CPs7mgxBJ3FO-aDUnE-1">
+        <mxCell id="x7CPs7mgxBJ3FO-aDUnE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;curved=0;" edge="1" parent="1" source="x7CPs7mgxBJ3FO-aDUnE-7" target="x7CPs7mgxBJ3FO-aDUnE-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="325" />
+              <mxPoint x="200" y="290" />
               <mxPoint x="200" y="245" />
             </Array>
           </mxGeometry>
