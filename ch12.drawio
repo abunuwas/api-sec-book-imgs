@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.3" pages="3">
   <diagram name="12.1" id="YTiApTUe0Ti74qzOMq3D">
     <mxGraphModel dx="947" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,6 +103,38 @@
         </mxCell>
         <mxCell id="EbnGYY1hlEv5AWaO1sWR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.92;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="EbnGYY1hlEv5AWaO1sWR-5" target="EbnGYY1hlEv5AWaO1sWR-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YkL3_N4TDA1WWoIZX7es" name="12.3">
+    <mxGraphModel dx="719" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eQ1JyxhbK6dKBmSwNFS0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;" edge="1" parent="1" source="eQ1JyxhbK6dKBmSwNFS0-1" target="eQ1JyxhbK6dKBmSwNFS0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ1JyxhbK6dKBmSwNFS0-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ1JyxhbK6dKBmSwNFS0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;curved=0;" edge="1" parent="1" source="eQ1JyxhbK6dKBmSwNFS0-2" target="eQ1JyxhbK6dKBmSwNFS0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ1JyxhbK6dKBmSwNFS0-2" value="Student" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ1JyxhbK6dKBmSwNFS0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;curved=0;" edge="1" parent="1" source="eQ1JyxhbK6dKBmSwNFS0-4" target="eQ1JyxhbK6dKBmSwNFS0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ1JyxhbK6dKBmSwNFS0-4" value="GET /admin/students" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ1JyxhbK6dKBmSwNFS0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;" edge="1" parent="1" source="eQ1JyxhbK6dKBmSwNFS0-5" target="eQ1JyxhbK6dKBmSwNFS0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ1JyxhbK6dKBmSwNFS0-5" value="Status code: 200&lt;div&gt;{&quot;students&quot;: [{&quot;id&quot;:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;1892a493&quot;...}...]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="225" y="200" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
