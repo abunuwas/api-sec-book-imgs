@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EbnGYY1hlEv5AWaO1sWR-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbnGYY1hlEv5AWaO1sWR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;curved=0;" edge="1" parent="1" source="EbnGYY1hlEv5AWaO1sWR-2" target="EbnGYY1hlEv5AWaO1sWR-4">
           <mxGeometry relative="1" as="geometry" />
@@ -67,17 +67,17 @@
         <mxCell id="EbnGYY1hlEv5AWaO1sWR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" edge="1" parent="1" source="EbnGYY1hlEv5AWaO1sWR-4" target="EbnGYY1hlEv5AWaO1sWR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EbnGYY1hlEv5AWaO1sWR-4" value="POST /students/register&lt;div&gt;{&quot;email&quot;: joe1@apithreats.com&quot;...}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=10;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="200" height="60" as="geometry" />
+        <mxCell id="EbnGYY1hlEv5AWaO1sWR-4" value="POST /students/register&lt;div&gt;{&quot;email&quot;: &quot;joe1@apithreats.com&quot;...}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=10;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbnGYY1hlEv5AWaO1sWR-5" value="Status code: 201&lt;div&gt;{&quot;coupon_code&quot;: &quot;&lt;span style=&quot;background-color: transparent;&quot;&gt;3ad3ae88&quot;...}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=10;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="200" y="110" width="200" height="60" as="geometry" />
+          <mxGeometry x="200" y="110" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbnGYY1hlEv5AWaO1sWR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" edge="1" parent="1" source="EbnGYY1hlEv5AWaO1sWR-6" target="EbnGYY1hlEv5AWaO1sWR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EbnGYY1hlEv5AWaO1sWR-6" value="POST /courses/1/register&lt;div&gt;{&quot;coupon_code&quot;: &quot;&lt;span style=&quot;background-color: transparent;&quot;&gt;3ad3ae88&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;...}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=10;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="200" y="180" width="200" height="60" as="geometry" />
+          <mxGeometry x="200" y="180" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbnGYY1hlEv5AWaO1sWR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.92;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="EbnGYY1hlEv5AWaO1sWR-5" target="EbnGYY1hlEv5AWaO1sWR-2">
           <mxGeometry relative="1" as="geometry" />
