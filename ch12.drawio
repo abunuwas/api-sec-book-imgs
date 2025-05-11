@@ -144,7 +144,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cTCjziMQN7F3b6weELYR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTCjziMQN7F3b6weELYR-1" target="cTCjziMQN7F3b6weELYR-11">
+        <mxCell id="cTCjziMQN7F3b6weELYR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;" edge="1" parent="1" source="cTCjziMQN7F3b6weELYR-1" target="cTCjziMQN7F3b6weELYR-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="310" />
@@ -154,7 +154,7 @@
         <mxCell id="cTCjziMQN7F3b6weELYR-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cTCjziMQN7F3b6weELYR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTCjziMQN7F3b6weELYR-2" target="cTCjziMQN7F3b6weELYR-7">
+        <mxCell id="cTCjziMQN7F3b6weELYR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;curved=0;" edge="1" parent="1" source="cTCjziMQN7F3b6weELYR-2" target="cTCjziMQN7F3b6weELYR-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cTCjziMQN7F3b6weELYR-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
@@ -172,7 +172,7 @@
         <mxCell id="cTCjziMQN7F3b6weELYR-5" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="250" y="149" width="160" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="cTCjziMQN7F3b6weELYR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTCjziMQN7F3b6weELYR-7" target="cTCjziMQN7F3b6weELYR-1">
+        <mxCell id="cTCjziMQN7F3b6weELYR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;curved=0;" edge="1" parent="1" source="cTCjziMQN7F3b6weELYR-7" target="cTCjziMQN7F3b6weELYR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cTCjziMQN7F3b6weELYR-7" value="GET /courses/1/details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
@@ -181,7 +181,7 @@
         <mxCell id="cTCjziMQN7F3b6weELYR-11" value="Status code: 404&lt;div&gt;{&quot;detail&quot;: &quot;Not found&quot;}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="290" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cTCjziMQN7F3b6weELYR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cTCjziMQN7F3b6weELYR-11" target="cTCjziMQN7F3b6weELYR-2">
+        <mxCell id="cTCjziMQN7F3b6weELYR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;" edge="1" parent="1" source="cTCjziMQN7F3b6weELYR-11" target="cTCjziMQN7F3b6weELYR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
