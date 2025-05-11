@@ -225,8 +225,8 @@
         <mxCell id="ub1fWf0QNTLTUtTTSS6L-4" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="315" y="107" width="118" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ub1fWf0QNTLTUtTTSS6L-5" value="Status code: 422&lt;div&gt;{&quot;detail&quot;: &quot;Parameter not supported: topic&quot;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="250" height="50" as="geometry" />
+        <mxCell id="ub1fWf0QNTLTUtTTSS6L-5" value="Status code: 422&lt;div&gt;{&quot;detail&quot;: &quot;Parameter not supported: topic&quot;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ub1fWf0QNTLTUtTTSS6L-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;" edge="1" parent="1" source="ub1fWf0QNTLTUtTTSS6L-5">
           <mxGeometry relative="1" as="geometry">
@@ -234,8 +234,6 @@
             <mxPoint x="245.25" y="297.31000000000006" as="targetPoint" />
             <Array as="points">
               <mxPoint x="245" y="345" />
-              <mxPoint x="245" y="300" />
-              <mxPoint x="245" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
