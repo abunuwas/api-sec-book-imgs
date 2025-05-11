@@ -188,14 +188,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NeOjkTq56tb71ta-vepD" name="12.5">
-    <mxGraphModel dx="695" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8Gc_BLz5lLQRwL54R7-Y-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ub1fWf0QNTLTUtTTSS6L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;" edge="1" parent="1" source="8Gc_BLz5lLQRwL54R7-Y-1" target="ub1fWf0QNTLTUtTTSS6L-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Gc_BLz5lLQRwL54R7-Y-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Gc_BLz5lLQRwL54R7-Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Gc_BLz5lLQRwL54R7-Y-2" target="8Gc_BLz5lLQRwL54R7-Y-1">
+        <mxCell id="8Gc_BLz5lLQRwL54R7-Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;curved=0;" edge="1" parent="1" source="8Gc_BLz5lLQRwL54R7-Y-2" target="8Gc_BLz5lLQRwL54R7-Y-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Gc_BLz5lLQRwL54R7-Y-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
@@ -217,6 +224,20 @@
         </mxCell>
         <mxCell id="ub1fWf0QNTLTUtTTSS6L-4" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="315" y="107" width="118" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ub1fWf0QNTLTUtTTSS6L-5" value="Status code: 422&lt;div&gt;{&quot;detail&quot;: &quot;Parameter not supported: topic&quot;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ub1fWf0QNTLTUtTTSS6L-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;" edge="1" parent="1" source="ub1fWf0QNTLTUtTTSS6L-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="257" y="349.90000000000003" as="sourcePoint" />
+            <mxPoint x="245.25" y="297.31000000000006" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="245" y="345" />
+              <mxPoint x="245" y="300" />
+              <mxPoint x="245" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
