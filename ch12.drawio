@@ -290,7 +290,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Vrb57r-zJRz2UgSbT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Md1Vrb57r-zJRz2UgSbT-12" target="Md1Vrb57r-zJRz2UgSbT-14">
+        <mxCell id="Md1Vrb57r-zJRz2UgSbT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;curved=0;" edge="1" parent="1" source="Md1Vrb57r-zJRz2UgSbT-12" target="Md1Vrb57r-zJRz2UgSbT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Md1Vrb57r-zJRz2UgSbT-12" value="25 items" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;dashed=1;fillColor=none;" vertex="1" parent="1">
