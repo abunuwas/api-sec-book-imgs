@@ -786,10 +786,10 @@
             <mxPoint x="670" y="539.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eh-xRnZKocZ0XT8X6T7a-17" value="100s of security issues" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+        <mxCell id="eh-xRnZKocZ0XT8X6T7a-17" value="100s of security issues" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="270" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eh-xRnZKocZ0XT8X6T7a-19" value="Handful of security issues" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+        <mxCell id="eh-xRnZKocZ0XT8X6T7a-19" value="Handful of security issues" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="540" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eh-xRnZKocZ0XT8X6T7a-20" value="VS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontColor=#FF3333;" parent="1" vertex="1">
