@@ -212,7 +212,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yMAgO0_VlZxe7GssbBUT" name="1.2">
-    <mxGraphModel dx="2076" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -575,6 +575,9 @@
               <mxPoint x="640" y="690" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Dnre6fSCWbqbH4aqv6rE-88" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;" vertex="1" parent="1">
+          <mxGeometry x="560.34" y="637" width="22" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
