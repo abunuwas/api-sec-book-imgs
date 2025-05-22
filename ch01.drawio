@@ -624,15 +624,6 @@
         <mxCell id="tDV55YWcfLxD72QWVPxH-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" parent="1" vertex="1">
           <mxGeometry x="89.40999999999994" y="242.50000000000003" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tDV55YWcfLxD72QWVPxH-12" value="" style="html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="427.16" y="239.91" width="6.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="tDV55YWcfLxD72QWVPxH-13" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" parent="1" source="tDV55YWcfLxD72QWVPxH-12" target="tDV55YWcfLxD72QWVPxH-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tDV55YWcfLxD72QWVPxH-14" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="439.91" y="240.91" width="8" height="8" as="geometry" />
-        </mxCell>
         <mxCell id="tDV55YWcfLxD72QWVPxH-16" value="" style="html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="355.41" y="241.00000000000003" width="6.75" height="10" as="geometry" />
         </mxCell>
