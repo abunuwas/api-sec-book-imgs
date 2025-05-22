@@ -212,7 +212,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yMAgO0_VlZxe7GssbBUT" name="1.2">
-    <mxGraphModel dx="1947" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -551,25 +551,30 @@
         <mxCell id="Dnre6fSCWbqbH4aqv6rE-72" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="686.6200000000001" y="599.76" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Dnre6fSCWbqbH4aqv6rE-75" value="User service network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="Dnre6fSCWbqbH4aqv6rE-75" value="User service network segment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="596.24" y="479.83" width="253" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dnre6fSCWbqbH4aqv6rE-78" value="Admin service network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="Dnre6fSCWbqbH4aqv6rE-78" value="Admin service network segment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="597" y="656.91" width="253" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dnre6fSCWbqbH4aqv6rE-74" value="POST /user/avatar&lt;div&gt;{&quot;url&quot;: &quot;http://10.0.10.0:8000/admin/users&quot;}&lt;/div&gt;" style="text;html=1;strokeColor=#FF3333;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="387.4199999999999" y="640" width="253.16" height="41.59" as="geometry" />
+          <mxGeometry x="369.9999999999999" y="640" width="253.16" height="41.59" as="geometry" />
         </mxCell>
         <mxCell id="Dnre6fSCWbqbH4aqv6rE-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/16x16/actions/gg_ignored.png" vertex="1" parent="1">
-          <mxGeometry x="640.87" y="656.91" width="16" height="16" as="geometry" />
+          <mxGeometry x="628.12" y="637" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="Dnre6fSCWbqbH4aqv6rE-81" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="Dnre6fSCWbqbH4aqv6rE-79">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dnre6fSCWbqbH4aqv6rE-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.209;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="Dnre6fSCWbqbH4aqv6rE-72" target="Dnre6fSCWbqbH4aqv6rE-76">
+        <mxCell id="Dnre6fSCWbqbH4aqv6rE-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Dnre6fSCWbqbH4aqv6rE-72" target="Dnre6fSCWbqbH4aqv6rE-79">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dnre6fSCWbqbH4aqv6rE-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.093;entryY=0.787;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dnre6fSCWbqbH4aqv6rE-79" target="Dnre6fSCWbqbH4aqv6rE-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="636" y="660" />
+              <mxPoint x="630" y="660" />
+              <mxPoint x="630" y="690" />
+              <mxPoint x="640" y="690" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
