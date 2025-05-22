@@ -503,7 +503,7 @@
             <mxPoint x="582.3400000000001" y="563.06" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dnre6fSCWbqbH4aqv6rE-57" value="2) Model threats" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="Dnre6fSCWbqbH4aqv6rE-57" value="3) Secure APIs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="431.16999999999996" y="470" width="118.83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dnre6fSCWbqbH4aqv6rE-58" value="SSRF to internal services" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;spacing=10;" vertex="1" parent="1">
