@@ -505,7 +505,7 @@
           <mxGeometry x="431.16999999999996" y="470" width="118.83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dnre6fSCWbqbH4aqv6rE-58" value="We divide the network into two segments to prevent services from talking to each other" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="-13.920000000000016" y="704.15" width="191.17" height="60.11" as="geometry" />
+          <mxGeometry x="391.16999999999996" y="656.91" width="191.17" height="60.11" as="geometry" />
         </mxCell>
         <mxCell id="Dnre6fSCWbqbH4aqv6rE-59" value="User service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="735.1200000000001" y="590.47" width="100" height="26.59" as="geometry" />
@@ -575,7 +575,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dnre6fSCWbqbH4aqv6rE-88" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;" vertex="1" parent="1">
-          <mxGeometry x="560.34" y="637" width="22" height="22" as="geometry" />
+          <mxGeometry x="597" y="599.76" width="22" height="22" as="geometry" />
         </mxCell>
         <mxCell id="Dnre6fSCWbqbH4aqv6rE-89" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;" vertex="1" parent="1">
           <mxGeometry x="631.12" y="640" width="13" height="13" as="geometry" />
