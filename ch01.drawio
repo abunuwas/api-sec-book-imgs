@@ -584,7 +584,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3-Xo8DgTXqocM24HLe8v" name="1.3">
-    <mxGraphModel dx="1171" dy="193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -712,15 +712,6 @@
         </mxCell>
         <mxCell id="lsAFEnJc58nxI4ueqesK-12" value="Infrastructure" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="469.40999999999997" y="180" width="144" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lsAFEnJc58nxI4ueqesK-16" value="" style="html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="496" y="241" width="10" height="9" as="geometry" />
-        </mxCell>
-        <mxCell id="lsAFEnJc58nxI4ueqesK-17" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" parent="1" source="lsAFEnJc58nxI4ueqesK-16" target="lsAFEnJc58nxI4ueqesK-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lsAFEnJc58nxI4ueqesK-18" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="482" y="241.5" width="8" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
