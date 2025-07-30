@@ -1217,8 +1217,8 @@
         <mxCell id="aF-mKH20X8DDcVqdgzjz-15" value="/authorize?client_id=&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;s6BhdR&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;request_uri=&lt;/span&gt;ccce5ea9" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;align=center;" parent="1" vertex="1">
           <mxGeometry x="88.72000000000001" y="423" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aF-mKH20X8DDcVqdgzjz-18" value="The client issues the authorization request JWT and pushes it to the authorization server (POST request)" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="438.98" y="100" width="211.02" height="60" as="geometry" />
+        <mxCell id="aF-mKH20X8DDcVqdgzjz-18" value="The client issues the authorization request JWT and pushes it to the authorization server (PAR request over POST)" style="text;whiteSpace=wrap;html=1;spacing=2;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;align=center;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="424.49" y="100" width="241.02" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aF-mKH20X8DDcVqdgzjz-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.189;entryY=0.528;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.811;exitY=0.529;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1238,7 +1238,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0yiyLyFyqNhvIsIibm7s-9" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="432" y="96" width="20" height="20" as="geometry" />
+          <mxGeometry x="411.95" y="90" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0yiyLyFyqNhvIsIibm7s-10" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="412.9" y="363" width="20" height="20" as="geometry" />
