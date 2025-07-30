@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.4" pages="15">
   <diagram name="10.1" id="lkFxprdJkYamxbweEZGj">
     <mxGraphModel dx="1000" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -360,7 +360,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2dZC0Y_uv28sFyDbFawh" name="10.6">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="940" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,7 +400,7 @@
         <mxCell id="rOTq1057D0sb1gkj8Xid-10" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" parent="rOTq1057D0sb1gkj8Xid-9" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rOTq1057D0sb1gkj8Xid-11" value="https://exaple.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="rOTq1057D0sb1gkj8Xid-9" vertex="1">
+        <mxCell id="rOTq1057D0sb1gkj8Xid-11" value="https://example.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="rOTq1057D0sb1gkj8Xid-9" vertex="1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rOTq1057D0sb1gkj8Xid-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" source="rOTq1057D0sb1gkj8Xid-6" target="rOTq1057D0sb1gkj8Xid-9" edge="1">
@@ -409,16 +409,16 @@
         <mxCell id="rOTq1057D0sb1gkj8Xid-15" value="Public clients run in the user agent. Their source code is visible to everyone and their interactions with the authorization server can&#39;t be authenticated." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=10;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="525" y="58" width="150" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="zR1zgIP7upYuwv8VlHTv-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+        <mxCell id="zR1zgIP7upYuwv8VlHTv-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
           <mxGeometry x="812" y="191" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zR1zgIP7upYuwv8VlHTv-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+        <mxCell id="zR1zgIP7upYuwv8VlHTv-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
           <mxGeometry x="812" y="400" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zR1zgIP7upYuwv8VlHTv-4" value="Public client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="zR1zgIP7upYuwv8VlHTv-4" value="Public client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="305" y="60" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zR1zgIP7upYuwv8VlHTv-6" value="A confidential client runs in a server. Its source code is not exposed and therefore can store credentials to authenticate with the authorization server" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=10;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="zR1zgIP7upYuwv8VlHTv-6" value="A confidential client runs in a server. Its source code is not exposed and therefore can store credentials to authenticate with the authorization server" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=10;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="620" y="240" width="150" height="111" as="geometry" />
         </mxCell>
       </root>
