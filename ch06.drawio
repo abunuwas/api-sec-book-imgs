@@ -1308,7 +1308,7 @@
           <mxGeometry x="526.88" y="390" width="146.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Qfph3OcXrGUbPx_J-VM-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
-          <mxGeometry x="220" y="40" width="60" height="60" as="geometry" />
+          <mxGeometry x="176" y="49" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Qfph3OcXrGUbPx_J-VM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="9Qfph3OcXrGUbPx_J-VM-21" target="9Qfph3OcXrGUbPx_J-VM-28">
           <mxGeometry relative="1" as="geometry" />
