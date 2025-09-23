@@ -1390,19 +1390,19 @@
         <mxCell id="XhwB6Vejpgcrdnm2FcCn-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
           <mxGeometry x="70" y="130" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XhwB6Vejpgcrdnm2FcCn-13" value="POST /carts&lt;div&gt;{&quot;product_id&quot;: 2501, ...}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="XhwB6Vejpgcrdnm2FcCn-13" value="GET /catalog?page=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="146.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XhwB6Vejpgcrdnm2FcCn-14" value="POST /carts&lt;div&gt;{&quot;product_id&quot;: 2501, ...}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="XhwB6Vejpgcrdnm2FcCn-14" value="GET /catalog?page=2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="240" y="140" width="146.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XhwB6Vejpgcrdnm2FcCn-15" value="POST /carts&lt;div&gt;{&quot;product_id&quot;: 2501, ...}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="XhwB6Vejpgcrdnm2FcCn-15" value="GET /catalog?page=3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="240" y="190" width="146.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XhwB6Vejpgcrdnm2FcCn-16" value="POST /carts&lt;div&gt;{&quot;product_id&quot;: 2501, ...}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="XhwB6Vejpgcrdnm2FcCn-16" value="GET /catalog?page=4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="146.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XhwB6Vejpgcrdnm2FcCn-17" value="POST /carts&lt;div&gt;{&quot;product_id&quot;: 2501, ...}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="XhwB6Vejpgcrdnm2FcCn-17" value="GET /catalog?page=5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="240" y="295" width="146.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XhwB6Vejpgcrdnm2FcCn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.026;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=default;curved=0;" edge="1" parent="1" source="XhwB6Vejpgcrdnm2FcCn-12" target="XhwB6Vejpgcrdnm2FcCn-15">
